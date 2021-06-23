@@ -1,6 +1,3 @@
-<!-- Add banner here -->
-![Banner](https://www.talklitmining.ugent.be/wp-content/uploads/2021/06/vlcsnap-error192_statements.png)
-
 # TalkLitMining - CLIN31
 
 Project Website: [link](https://www.talklitmining.ugent.be)
@@ -16,7 +13,12 @@ Project Website: [link](https://www.talklitmining.ugent.be)
 <!-- Describe your project in brief -->
 
 ### Evaluation of literature by professional and layperson critics: A digital and literary sociological analysis of evaluative talk of literature through the prism of literary prizes (2007-2017) ###
-We aim to answer questions such as: What are the criteria for telling ‘good’ from ‘bad’ literature used by both professional and layperson critics? What role does the attribution of societal engagement play in the judgment of contemporary literature? What are the differences between academic prizes and literary prizes that draw on audience participation?
+
+![Banner](https://www.talklitmining.ugent.be/wp-content/uploads/2021/06/vlcsnap-error192_statements.png)
+
+
+The project aims to answer questions such as: What are the criteria for telling ‘good’ from ‘bad’ literature used by both professional and layperson critics? What role does the attribution of societal engagement play in the judgment of contemporary literature? What are the differences between academic prizes and literary prizes that draw on audience participation?
+
 In the current version of this code, we analyze tweets in German, and train classifiers to predict categories and sentiment associated with keywords and aspects in the tweets. 
 
 # Installation
