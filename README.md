@@ -46,14 +46,14 @@ The repository is structured as followed:
 
 Note: Add Twitter API developer keys, at the top of the file preprocessing.ipynb to get the code running!
 
-### Contacts
+# Contacts
 
 Open an issue for bugs or trouble with running the scripts.
 
 For further questions related to the code contact:
 
-* [Pranaydeep Singh](mailto:pranaydeep.singh@ugent.be)
-* [Lore De Greve](mailto:lore.degreve@ugent.be)
+* Pranaydeep Singh [(E-Mail)](mailto:pranaydeep.singh@ugent.be)[(Github)](https://github.com/pranaydeeps)
+* Lore De Greve [(E-Mail)](mailto:lore.degreve@ugent.be)
 
 # License
 
