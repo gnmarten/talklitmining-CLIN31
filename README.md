@@ -1,7 +1,9 @@
 <!-- Add banner here -->
-![Banner](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
+![Banner](https://www.talklitmining.ugent.be/wp-content/uploads/2021/06/vlcsnap-error192_statements.png)
 
 # TalkLitMining - CLIN31
+
+Project Website: [link](https://www.talklitmining.ugent.be)
 
 <!-- Add buttons here -->
 
