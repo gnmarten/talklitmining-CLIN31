@@ -28,13 +28,13 @@ Requirements:
 
 Setup: 
 
-```git init```
+* ```git init```
 
-```git clone https://github.com/gnmarten/talklitmining-CLIN31```
+* ```git clone https://github.com/gnmarten/talklitmining-CLIN31```
 
-```cd talklitmining-CLIN31```
+* ```cd talklitmining-CLIN31```
 
-```pip install -r requirements.txt```
+* ```pip install -r requirements.txt```
 
 # Usage
 
@@ -52,8 +52,8 @@ Open an issue for bugs or trouble with running the scripts.
 
 For further questions related to the code contact:
 
-*[Pranaydeep Singh](mailto:pranaydeep.singh@ugent.be)
-*[Lore De Greve](mailto:lore.degreve@ugent.be)
+* [Pranaydeep Singh](mailto:pranaydeep.singh@ugent.be)
+* [Lore De Greve](mailto:lore.degreve@ugent.be)
 
 # License
 
