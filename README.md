@@ -8,7 +8,6 @@ Project Website: [link](https://www.talklitmining.ugent.be)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gnmarten/talklitmining-CLIN31)
 ![GitHub issues](https://img.shields.io/github/issues-raw/gnmarten/talklitmining-CLIN31)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/gnmarten/talklitmining-CLIN31)
-![GitHub](https://img.shields.io/github/license/gnmarten/talklitmining-CLIN31)
 
 <!-- Describe your project in brief -->
 
