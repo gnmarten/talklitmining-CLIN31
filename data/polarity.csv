@@ -1,831 +1,829 @@
-,Aspect,Polarity,TweetID,Trigger
-0,Das Setting,Positive,1014812423205916672,erinnert ein bisschen an @hartaberfair
-1,das Publikum läuft herrlich anarchisch durch das Livebild,Positive,1014812423205916672,herrlich anarchisch
-2,Figuren im Text,Negative,1014814182280171521,peinlich berührtes Husten im Publikum
-3,Figuren im Text schlafen miteinander,Negative,1014814182280171521,peinlich berührtes Husten im Publikum
-4,Husten im Publikum,Negative,1014814182280171521,peinlich berührtes
-5,lustig flottierende Publikum,Positive,1014825100921720832,"Sehr gut gefällt uns,lustig flottierende"
-6,"Publikum gefällt: Sonnenbrille, Sommerhut",Positive,1014845016794193920,gefällt
-7,"Publikum gefällt: Sonnenbrille, Sommerhut, viel Fächern mit 3sat-Fächern",Positive,1014845016794193920,gefällt
-8,"Ähnliches erlebt, wie im Text beschrieben",Positive,1014857863615991808,90% der Zuhörer im Studio haben sicher Ähnliches erlebt
-9,Zusammenschnitt des Vortrags,Positive,1015145143278718976,Das Studiopublikum lacht
-10,Husten im Publikum,Negative,1015150130134179841,Entgeistertes
-11,tddl,Negative,1015160116243521536,Eigentlich hätte eine ganze Reihe Publikum aufspringen und rufen müssen.
-12,klopfjazz,Negative,1015164880033320960,klopfjazz
-13,Rede Zaimoglus,Positive,1014600924126425088,Langer Applaus
-14,worum es geht,Positive,1015181254889787392,Nett. Nicht mehr.
-15,worum es geht,Positive,1015181254889787392,"Publikum ist aber dankbar, weil man verstanden hat worum es geht"
-16,Text von Tanja Maljartschuk,Positive,1015181371101401088,Ein ungewohnt gegenständlicher und einfach zu erfassender
-17,Text von Tanja Maljartschuk,Positive,1015181371101401088,Größter und längster Applaus am Schluss
-18,Tanja Maljartschuk,Positive,1015181371101401088,Ein ungewohnt gegenständlicher und einfach zu erfassender
-19,Tanja Maljartschuk,Positive,1015181371101401088,Größter und längster Applaus am Schluss
-20,Geschichte,Positive,1015181371101401088,schöne
-21,Applaus,Positive,1015181409290514433,"Oh, mein Gott. So viel"
-22,Maljartschuk,Positive,1015181409290514433,So viel Applaus
-23,Literatur,Positive,1015181467759136768,"Langer Applaus!,Endlich Literatur"
-24,klassisch erzählte Geschichte,Positive,1015181731803095041,"Kollektives Aufatmen,Endlich mal"
-25,manche im Publikum sehen aus wie ich,Negative,1015213981869445121,Scheiße
-26,Herr Neft,Positive,1015217572126580736,kriegt Herr Neft den Publikumspreis
-27,Applaus,Positive,1015218264371326976,"tosender Applaus,gebührend"
-28,Show,Positive,1015218264371326976,sehr dichte
-29,gelesen,Positive,1015218264371326976,toll
-30,Flashbacks,Negative,1015218264371326976,etwas kompliziert
-31,Lacher im Studio,Positive,1015511946228043776,Süßer
-32,Publikum ist extrem fokussiert,Positive,1014782342118944768,extrem fokussiert
-33,wenn jemand umkippt,Positive,1015512616515571712,bitte immer mit lustigem jazz ablenken
-34,jazz,Positive,1015512616515571712,lustigem
-35,Musik,Positive,1015512614447800320,super angemessen...
-36,performance,Negative,1015512750020276224,"kranke,erinnert an goetz"
-37,Jazzmusik,Positive,1015512880584822784,"sprudelnd leichte,hat eine gewisse Komik. Leider."
-38,die Dame,Positive,1015513222030548992,Schnelle Besserung
-39,Publikum,Negative,1015513255270371329,Kleines Kreislaufproblem
-40,Publikum,Positive,1015513255270371329,aber alles gut!
-41,der Dame,Positive,1015513755898261504,Hoffentlich geht es der Dame bald besser...
-42,1te Lesung des Tages,Negative,1015515551811166208,ich kann mir schon die unterschiedlichen Kritiken vorstellen
-43,Jakob Nolte,Negative,1015515551811166208,ich kann mir schon die unterschiedlichen Kritiken vorstellen
-44,Person aus dem Publikum,Positive,1015515551811166208,"Hoffe aber, dass es der Person aus dem Publikum gut geht"
-45,KlausKastberger: Ich möchte noch was zum Kokain sagen.,Positive,1015522141415067649,Publikum lacht
-46,Ich möchte noch was zum Kokain sagen.,Positive,1015522141415067649,Publikum lacht
-47,mit dem Publikum mitgeklatscht,Positive,1015523549120008192,bahahaha
-48,mit rosa Rundumbrillenbügel im Publikum sitzen,Negative,1014787138163036160,Man sollte nicht
-49,geäusserten weisheiten,Positive,1015529764118032386,weisheiten
-50,Hildegard Keller,Negative,1015532195157553153,Hat Hildegard Keller einen anderen Vortrag als das TV-Publikum gehört?
-51,"Ein trauriger Clown, der auf unsere Welt schaut",Negative,1015532195157553153,?
-52,Bachmannpreis im Lendhafen 2018,Positive,1016260498470391808,"Schön war es!,Wir freuen uns jetzt schon wieder"
-53,"Mitwirkenden, die Ermöglicher*innen",Positive,1016260498470391808,Danke
-54,Publikum,Positive,1016260498470391808,Danke
-55,Preisträger*innen,Positive,1016260498470391808,Gratulation an die
-56,Preisträger*innen,Positive,1016260498470391808,Gratulation an die
-57,Publikum,Positive,1023618645526753280,Spannend.
-58,über #tddl18,Positive,1023618645526753280,Spannend.
-59,eine der AutorInen,Positive,1023618645526753280,Spannend.
-60,raphiedel,Positive,1023618645526753280,"Danke,und Gratulation fürs teilen <3"
-61,@KlausKastberger den Text hochgelobt hat,Positive,1014794624081256450,Applaus
-62,Text,Positive,1014794624081256450,hochgelobt
-63,"das Publikum scheint nicht ganz sicher, ob es darüber lachen darf",Negative,1014795320385994753,scheint nicht ganz sicher
-64,"das Publikum scheint nicht ganz sicher, ob es darüber lachen darf",Positive,1014795320385994753,darf es
-65,alle männer sind auffüllungstechniker,Positive,1014795448509452289,lässt das publikum hier kollektiv in liebe zu nora gomringer fallen
-66,nora gomringer,Positive,1014795448509452289,lässt das publikum hier kollektiv in liebe zu nora gomringer fallen
-67,Das Publikum klatscht wieder,Negative,1014797444838821888,"Ob es auch daran liegt, dass es die einzige Autorin aus Österreich ist?"
-68,Text,Positive,1014805157845102592,der dem Publikum sicher gut gefällt
-69,Livestream,Negative,1144156517219950592,hängt
-70,Pointen,Negative,1144156517219950592,werden vorweggenommen
-71,Text,Negative,1144156593958924288,Von wegen
-72,spekulativem Roman,Negative,1144156593958924288,"überlege ich krampfhaft,was wohl"
-73,"Publikum, zuhören, nicht aufs Blatt starren",Negative,1144156647549526017,nicht aufs Blatt starren
-74,Die. Lesen. Ja. Immer. Als. Sei. Zwischen. Jedem. Wort. Ein. Punkt.,Negative,1144156691577155584,Die. Lesen. Ja. Immer. Als. Sei. Zwischen. Jedem. Wort. Ein. Punkt.
-75,"Person im Publikum sieht aus, als ob sie schläft",Negative,1144156776591437825,"sieht aus, als ob sie schläft,Fühl ich,Fühl ich sehr"
-76,tddl,Positive,1144156780131422208,Hah!
-77,Liest,Negative,1144156780081111040,"Aua,wie befürchtet"
-78,Pausen,Negative,1144156780081111040,unötigen kleinen verzögernden
-79,Wörter,Negative,1144156780081111040,nicht wichtiger machen
-80,Perspektivschneise im Text,Positive,1144156969063845890,Perspektivschneise
-81,tddl,Positive,1144124909926387712,Wann liest Kochi
-82,https://twitter.com/kochkunstRecook/status/1144123200307118081,Positive,1144124909926387712,Wann liest Kochi
-83,Lippen kucken #tddl #Schultens,Negative,1144157093534060544,Muss immer
-84,Perspektivschneise,Positive,1144157139428155395,Perspektivschneise
-85,TDDL-Texten,Negative,1144157162316423173,Unart
-86,Namen,Negative,1144157162316423173,Komplexität durch die Einführung von zwölftausend Namen erzielen zu wollen.
-87,"dass Burkhard Spinnen nicht mehr in der Jury ist. Er würde gleich erklären, dass er auch mal in der Ukraine war.",Negative,1144157185808764928,Schade
-88,geht es jetzt auch bei #tddl um Vielehe,Negative,1144157253513220096,jetzt auch
-89,Was ist eine Emilia?,Positive,1144157258655457280,"gute Fragen,kleiner feiner Trick mit dem ein"
-90,hören,Negative,1144157280570621952,"Vögel sind besser zu hören als sie,jetzt noch nen Rasenmäher,jetzt kein Text zum mitlesen,verstehe gar nichts"
-91,Text zum mitlesen,Negative,1144157280570621952,jetzt kein Text zum mitlesen
-92,Trend spekulative Waldprosa,Positive,1144157289441615872,Trend
-93,kameraführung,Positive,1144157360669306881,"ich mag,nah und doch so fern"
-94,Verwendung des Wortes Puschelpelz,Positive,1144157477405171712,Pluspunkt
-95,Puschelpelz und Hühnerkacke. Das bleibt hängen von der ersten Lesung,Positive,1144157523576012801,"Das bleibt hängen von der ersten Lesung, glaube ich."
-96,ersten Lesung,Positive,1144157523576012801,"Das bleibt hängen von der ersten Lesung, glaube ich."
-97,mAria,Negative,1144157758138257409,"warum,?"
-98,Puschelpelz in der Sonne,Positive,1144157771891445760,<3
-99,Puschel und Hühnerkacke,Negative,1144157771891445760,kommt auch mein Hirn nicht vorbei
-100,balkone,Positive,1144130036380962817,"irgendwie südländisch,moijn"
-101,Text,Negative,1144157782985363461,von der Art »Wir haben noch keinen Preisträger gehört
-102,Sie ist eine von fünf Menschen ohne Schwanz im Raum.,Positive,1144157897309532160,Wurde kurz wach... und gleich nochmal...
-103,Text,Positive,1144157897309532160,vielleicht witziger als er scheint
-104,Katharina Schultens,Positive,1144157966297370624,sehr gute Lyrikerin
-105,Stil,Positive,1144157966297370624,gut in Prosa übertragen lassen
-106,stilistisch,Negative,1144157966297370624,das hier ist nichts
-107,Text,Negative,1144157966297370624,relativ banal vorwärts geschoben
-108,Alle hören sehr genau zu.,Negative,1144157981501792256,Nein. Ich habe damit schon aufgehört.
-109,Nervtext,Negative,1144157981501792256,Schwurbeliger Nervtext
-110,tddl,Positive,1144158000573243392,finde ich auch sehr beeindruckend
-111,das,Negative,1144158056005197824,wieder eskaliert
-112,Autor*innen,Positive,1144158056005197824,"nicht bloßzustellen,nicht lächerlich zu machen"
-113,zynischen Kommentare,Negative,1144158056005197824,zynischen
-114,Jury,Negative,1144158056005197824,Ich werde meine zynischen Kommentare voll auf die Jury kanalisieren heute
-115,nach unten treten,Negative,1144158056005197824,nach unten treten ist eher so mäh
-116,Text,Positive,1144158097180692482,"Wahrscheinlich das Beste, was man damit machen kann."
-117,Spekulativer Roman mit ganz viel Schwanz,Positive,1144158135252393984,Spekulativer Roman mit ganz viel Schwanz
-118,Starterin,Positive,1144158192634597376,"Interessante,jetzt schhhhhht - zuhören!!!"
-119,Photo,Positive,1144131695072952322,Großartiges
-120,Bildunterschrift,Positive,1144131695072952322,großartige
-121,Sätze,Positive,1144158227506114562,Gute
-122,Sätze,Positive,1144158227506114562,guten
-123,Valium-Lesetempo hört,Negative,1144158227506114562,"Valium-Lesetempo,irgendwie erschließt sich mir nicht, wie die guten Sätze zusammengehören."
-124,Sätze,Positive,1144158227506114562,Gute
-125,Sätze,Positive,1144158227506114562,guten
-126,Schultens-Text,Negative,1144158553822892032,"als hätte sie versucht, ein Aichinger-Gedicht in einen Roman zu übersetzen"
-127,Schultens-Text,Negative,1144158553822892032,"sehr viele Namen eingebaut, weil in Romane ja viele Leute vorkommen"
-128,Namen,Negative,1144158553822892032,"sehr viele Namen eingebaut, weil in Romane ja viele Leute vorkommen"
-129,Der Text wird von der Autorin leider etwas ins Lethargische gelesen,Negative,1144158630167678977,leider etwas ins Lethargische
-130,buchmannpreis,Positive,1144158696978731009,endlich wieder
-131,Feministisches Kyrie eleison,Positive,1144158716067033088,Feministisches Kyrie eleison
-132,Literaturlaub,Negative,1144158754994307072,"So wird das nix,:("
-133,"ihre Wörter, ihre Sätze",Positive,1144158861177364480,"Ich mag,Vielleicht möchte ich ihre Lyrik nochmal sehen"
-134,Bachmannpreis,Positive,1144158912175845376,Unverkennbar
-135,kollektive Publikum-blättert-um-Geräusch,Positive,1144158912175845376,Unverkennbar
-136,Video,Negative,1144158939308789761,furchtbar
-137,Text,Negative,1144158939308789761,nervt
-138,Text,Positive,1144158939308789761,"Erstaunlich,wenn man ihn liest, wird er besser"
-139,beim Zuhören,Negative,1144158939308789761,nervt
-140,eine Bildergalerie der zuhörender Klagenfurter Schüler,Positive,1144159041972842496,Ich wünsche mir
-141,einstieg von katharina schultens,Positive,1144159040181854208,doch mal ein einstieg
-142,einstieg von katharina schultens,Positive,1144159040181854208,erinnert mich an den report der magd
-143,einstieg von katharina schultens,Negative,1144159040181854208,okay marginal
-144,erinnert mich an den report der magd,Positive,1144159040181854208,doch mal ein einstieg
-145,erinnert mich an den report der magd,Negative,1144159040181854208,okay marginal
-146,tddl,Negative,1144159114647527425,"Krampfhaft,melodramatisch"
-147,tddl,Positive,1144159114647527425,"sachlich,nüchtern"
-148,Text,Positive,1144159216426455040,"Ich sehe durchaus, was sie mit dem Text versucht"
-149,sprachlich,Negative,1144159216426455040,aber leider ist das sprachlich nicht konsequent umgesetzt
-150,#tddl-Twitterer,Positive,1144159328909385729,geil
-151,"#tddl-Twitterer auf einmal bekannten, bei den Worten Schwanz und Hühnerkacke aufgemerkt zu haben",Positive,1144159328909385729,geil
-152,Sätze im Text,Negative,1144159541745131521,"grandios verhauende,Hat das denn vorher keiner lektoriert?"
-153,Er,Negative,1144132915099516929,"Zeilenauf und -ab ein großes Hey!,noch nichts veröffentlicht,keine Stipendien oder Preise erhalten,#gehtdas"
-154,Teilnahmeparagräphchen,Negative,1144132915099516929,#gehtdas
-155,Text ist sprachlich,Negative,1144159570954248192,"Das passiert bei Schultens nicht,sprachlich ärmer als ihre Lyrik,Überhaupt"
-156,keinen Anschluss,Negative,1144159659227516928,"nach Std endlich,finde keinen Anschluss,jetzt schon massiv genervt"
-157,Jurydiskussion,Negative,1144159675333713920,"Hoffentlich,nicht"
-158,tddl,Positive,1144159745311424514,belohnt zur rechten Zeit
-159,Klagenfurt,Positive,1144159754362728448,Gute
-160,Text wie von #Schultens,Negative,1144159754362728448,getrost ignorieren kann
-161,lobende Rezensionen von #Wilke,Negative,1144159754362728448,getrost ignorieren kann
-162,tddl,Negative,1144159767914586112,Bin aber gar nicht drin
-163,Favs,Positive,1144159767914586112,Favs
-164,Theater,Positive,1144159773895606272,"ich hätte großen Spaß, bei dem Theater mitzumachen."
-165,Theater,Negative,1144159773895606272,Theater
-166,tddl,Positive,1144159773895606272,"ich hätte großen Spaß, bei dem Theater mitzumachen."
-167,Habe metadicke Pflanzen verstanden,Positive,1144159850810753024,mich kurz ein wenig gefreut
-168,Tom Kummer,Positive,1144133127620763648,Ist Tom Kummer eigentlich ein Kayfabe-Experte?
-169,tddl,Negative,1144160001545711616,verstehe den Zusammenhang nicht
-170,https://twitter.com/Wolfseule/status/1144159773895606272,Negative,1144160001545711616,verstehe den Zusammenhang nicht
-171,tddl,Negative,1144160066414796800,"niemand hat mich eingeladen,eigentlich sollte mich beides nicht wundern"
-172,"Menschen, die sich in Pflanzen verwandeln",Negative,1144160083389140993,anderswo schon deutlicher beschrieben gelesen
-173,Raunen,Negative,1144160083389140993,zuviel
-174,Zusammenhang,Negative,1144160083389140993,zuwenig
-175,einzelne Bilder,Positive,1144160083389140993,schön
-176,Gesamtbild,Negative,1144160083389140993,kein
-177,#tddl-Hashtag verfolgt,Negative,1144160125973925888,zum letzten Mal in meinem Leben
-178,https://twitter.com/Frank__Hornung/status/1144158640158519296,Negative,1144160125973925888,zum letzten Mal in meinem Leben
-179,Handlung,Positive,1144160133309784064,komplizierte
-180,sprachlichen Gerippe,Negative,1144160133309784064,"einfach so dahinplätschern,nervig"
-181,inneren Stimme,Negative,1144160133309784064,müde aufgesetzten
-182,Text,Negative,1144160218609328128,"Leider,als ob er gern mal Lyrik geworden wäre"
-183,Rede von Clemens J. Setz zur tddl-Eröffnung,Positive,1144160247025754112,Tolle
-184,Text Das Bein,Positive,1144160260170665984,großartig
-185,Vater-Sohn Sterbegeschichte,Positive,1144160260170665984,großartig
-186,Kein Erinnern ohne An.,Negative,1144160274943029248,"Nein.,Kein"
-187,Katharina Schultens liest einen Text,Positive,1144133352334774273,"ich freue mich, dass ihn nun die ganze Welt hören wird"
-188,Text,Positive,1144133352334774273,"ich freue mich, dass ihn nun die ganze Welt hören wird"
-189,Überalterung im Publikum,Positive,1144160314553982977,Lösung gegen Überalterung im Publikum
-190,15-jährigen,Negative,1144160314553982977,unter androhung von red dead redemption 2 verbot
-191,"Texte, die sich besser vorlesen/hören lassen",Positive,1144160396099706880,sich besser vorlesen/hören lassen
-192,Ally Kleins Text,Positive,1144160396099706880,zum Vorlesen/Zuhören hervorragend
-193,zum Vorlesen/Zuhören,Positive,1144160396099706880,hervorragend
-194,gelesen,Positive,1144160396099706880,gut
-195,Andere,Negative,1144160396099706880,"viel zu dicht, um sie beim Zuhören gut zu erfassen"
-196,dicht,Negative,1144160396099706880,"viel zu dicht, um sie beim Zuhören gut zu erfassen"
-197,tddl,Negative,1144160422364352512,ist mir gerade echt zu nervig nach 2 Std Schlaf
-198,tddl,Positive,1144160425388494848,"Recht haben,gefällt mir"
-199,Künftige Welt - radikal gedacht.,Positive,1144160468786982912,radikal gedacht
-200,Brutal und poetisch,Positive,1144160468786982912,Brutal und poetisch zugleich
-201,Text,Negative,1144160496486113280,packt mich nicht
-202,Lippenstift,Positive,1144160496486113280,jedoch perfekt auf die Farbe des Logos abgestimmt
-203,tddl,Negative,1144160625020559360,"funktioniert nur so halb (also nicht),höre so jeden 2. satz,grenzen zwischen dem text und der inventur verschwimmen,naja"
-204,synchron umblättern,Positive,1144160657178341377,"schönste choreografie,detlef d soost ist stolz"
-205,literatur,Positive,1144160657178341377,wieder sexy
-206,am Lesen,Positive,1144160755664805888,"ahh,am Lesen merkt man wo man sich beim Text wieder konzentrieren soll"
-207,Furchetwitterrad,Positive,1144133399663271937,Mir bleibt
-208,Schultens,Positive,1144160767119417344,gute Lyrikerin
-209,"hatte das Kind endlich angefangen zu singen, mit einer hellen, zitternden Stimme",Negative,1144160767119417344,"nicht verstehe,nie,durchgehen lassen ohne dass es vom Text irgendwie aufgefangen wird,Und hier - alles voller Sätze wie der."
-210,Frauenpower,Positive,1144160949718462469,Frauenpower
-211,auf #tddl Tweets geiern,Positive,1144161013023072256,lieber
-212,auf #tddl Tweets geiern,Positive,1144161013023072256,lieber
-213,"»Das Summen hatte keinen Anfang, es war einfach da.«",Negative,1144161049953951744,tinitus
-214,buchmannpreis,Negative,1144161058145361920,langweilig
-215,buchmannpreis,Positive,1144161058145361920,bissi schöner
-216,Wer wünscht sich nach dem Schultens-Text keine eigene Chimäre?,Positive,1144161168635944965,"Wer wünscht sich,keine"
-217,Bühnendeko,Negative,1144161276786040832,neue und noch hässlichere
-218,tddl,Negative,1144161276786040832,geht es irgendwie bergab
-219,zwischenhuster,Positive,1144161286386835456,adlips der literatur
-220,eröffnungsrede,Positive,1144038490637778944,findet wahre sätze
-221,tddl,Positive,1144136020373454848,Bachmannbewerb für PolitikerInnen
-222,meinen Vorschlag,Positive,1144137583405993986,erneuere ich gerne
-223,https://twitter.com/diefurche/status/1133484947765907456,Positive,1144137583405993986,erneuere ich gerne
-224,Tom Kummer sagt er macht Gonzo,Negative,1144138476125859840,in Wirklichkeit ist das alles nur #kayfabe
-225,tddl zu streamen,Positive,1144138890657374208,heimlich #tddl zu streamen
-226,tddl,Negative,1144139701823168512,nicht Schlachtenbummeln
-227,Kritik der Kritik,Positive,1144142415391002624,Heiß wirds heute
-228,Es geht wieder los!,Positive,1144145304096256001,Es geht wieder los!
-229,tddl,Positive,1144145537375100928,alle #tddl schauen
-230,standseilbahn,Positive,1144145537375100928,die Daumen drücken !
-231,Die lächerliche Kayfabe der Dichteridentität habe ich selbst besonders hündisch befolgt in meinen jungen Jahren.,Negative,1144145605654130688,Interessant wäre es gewesen
-232,tddl,Positive,1144146362600214529,Heute!
-233,tddl,Negative,1144148025348100096,"Das Vertrauen der Veranstalter,scheint nicht besonders groß zu sein"
-234,tddl,Negative,1144148183473426433,Müßte mich noch warmlästern.
-235,standseilbahn,Positive,1144148483726807040,Fankurve
-236,tddl,Positive,1144148483726807040,es kann losgehen
-237,"die, die immer fragen",Negative,1144148654569205760,"wens nicht interessiert,schaut halt weg,ich kommentier ja auch nicht euren Fußballscheiß"
-238,klimatisiert,Negative,1144047126403588096,Macht mal weniger bedruckte Liegesessel
-239,kühler,Negative,1144047126403588096,kühler wirds nie wieder
-240,Clemens Setz' https://bachmannpreis.orf.at/stories/2987078/,Positive,1144150327521939457,"grandios,selten so viel mir neues aus einem Text gezogen"
-241,ankowitsch,Positive,1144150547152478212,"Ich hoff, man sieht sich dann später noch auf eine Schaumrolle bei der Bürgermeisterin"
-242,Ich-Bin-Autor-Videos,Negative,1144150832138637313,Noch viel schlimmer
-243,Ich-Bin-Autor-Videos,Negative,1144150832138637313,bierernsten
-244,"Versuche, das Format Vorstellungsvideo zu ironisieren",Negative,1144150832138637313,Noch viel schlimmer
-245,Es kann losgehen #tddl,Positive,1144151736115978240,Es kann losgehen
-246,Bachmannwettbewerb,Positive,1144151858874855424,"Es ist wieder,!"
-247,zeitgenössischen österreichischen Literatur,Positive,1144152403928920064,Maskottchen
-248,Es beginnt in 5 Minuten der erste Lesetag,Positive,1144152438087323649,"Guten Morgen!,herzliches Willkommen"
-249,WLAN,Positive,1144152773946171392,Das WLAN hält
-250,tddl,Negative,1144048611292045313,"stressig,auch anderes zu tun,Stress pur"
-251,tddl,Positive,1144048611292045313,"will ich alles verfolgen,"
-252,Bachmannwettbewerb,Positive,1144152946088775680,"again!,Yeah"
-253,"erste Lesende, Katharina Schultens, hat also auch in St. Louis studiert.",Negative,1144153084563742720,ja schon eine richtige Mafia.
-254,tddl,Negative,1144153162628108289,"kein fächer,!!!,wie konnte das???"
-255,Frau Keller hat die alle weggefächert.,Positive,1144153774216351744,hat die alle weggefächert
-256,WLAN,Positive,1144153851626446848,so gut
-257,WLAN,Positive,1144153851626446848,"Cool, danke!,:)"
-258,tddl,Positive,1144153851626446848,dass ich #tddl schauen kann
-259,Intro,Negative,1144153943272054784,Um Gottes willen
-260,Musik,Negative,1144153943272054784,Um Gottes willen
-261,Musik,Negative,1144153943272054784,frecher
-262,Lesungen,Positive,1144048775541002246,interessanteste
-263,Kolportage,Negative,1144154077548466176,"Die Realität übertrifft inzwischen jede Kolportage,Kolportage"
-264,Videoporträts,Negative,1144154254107656194,Alles schon mal dagewesen
-265,Geht los! #tddl,Positive,1144154271711191040,So! Geht los!
-266,Es geht loooooos #tddl,Positive,1144154452758269952,Es geht loooooos
-267,Sobald ich Ankowitsch höre,Positive,1144154475931799553,habe ich imaginäre Gummibänder im Mund und kann österreichisch
-268,österreichisch,Positive,1144154475931799553,habe ich imaginäre Gummibänder im Mund und kann österreichisch
-269,Bachmannpreis,Negative,1144154627249717248,nicht für den Bachmannpreis interessieren
-270,#tddl muten,Positive,1144154627249717248,"mögen bitte,:)"
-271,Lesen! Lesen! Lesen! Lesen!,Positive,1144154664268697601,Lesen! Lesen! Lesen! Lesen!
-272,Lesen! Lesen! Lesen! Lesen!,Positive,1144154664268697601,Lesen! Lesen! Lesen! Lesen!
-273,tddl,Positive,1144154664268697601,Lesen! Lesen! Lesen! Lesen!
-274,acmetheater on Twitter,Positive,1144064077196607488,Top story
-275,acmetheater on Twitter: die #tddl sind dope! ,Positive,1144064077196607488,Top story
-276,tddl,Positive,1144064077196607488,dope!
-277,https://twitter.com/theateracme/status/1143604347831541767,Positive,1144064077196607488,Top story
-278,Kann losgehen,Positive,1144154661940867072,ich wäre dann soweit
-279,Outfit,Negative,1144154789430910976,Antifa schreit
-280,tddl,Positive,1144154801556590592,alle jahre wieder! I #tddl
-281,tddl,Positive,1144154826873495554,Zeit für #tddl
-282,tddl,Positive,1144154860021063681,Getting ready for #tddl
-283,Favorit,Positive,1144116881596571648,Mein Favorit ist ja wieder Bob Dylan.
-284,Internet-Applaus,Positive,1144155329317560320,fulminanten Internet-Applaus
-285,Teilnehmerinnen und Teilnehmer,Positive,1144155329317560320,fulminanten Internet-Applaus
-286,neue sitzordnung,Negative,1144155528412745729,"uups,bringt meine orientierung durcheinander"
-287,Christian Ankowitsch,Negative,1144155544397254657,"grösste Problem,dass er nicht Ernst A. Grandits ist,nichtmal ein Mittelinitial"
-288,Literatur,Positive,1144155569667923968,"ich hoffe sehr,das überdröhnen kann!"
-289,tddl,Positive,1144155587011383296,"ich hab frei,\o/"
-290,Lesungen,Positive,1144155591218253824,bin schon sehr gespannt auf
-291,Videoporträt,Negative,1144155936552103939,"Hoffentlich,nicht mit derselben Intonation"
-292,gomringernora,Positive,1144155997457584133,ich schwenke Pompoms
-293,ihrem Text,Positive,1144155997457584133,"umgehauen hat,Mit dem sie dann auch den Bachmannpreis gewann"
-294,sie in der Jury,Positive,1144155997457584133,ich schwenke Pompoms
-295,Autorenproträt,Negative,1144156017229475840,aus der Reihe »Auch egal.«
-296,Videoportraits,Negative,1144156081305915393,"wieder kein Gott, der einem vor diesen überflüssigen Videoportraits beschützt"
-297,Videoportraits,Negative,1144156081305915393,überflüssigen
-298,Videoportraits,Positive,1144156148532219905,"tatsächlich sehr erleichternd,Schock nicht mehr so groß"
-299,Videoportrait,Negative,1144156178697637888,ich verdrehe schon sehr stark die Augen
-300,Videoportrait,Positive,1144156178697637888,Guter Start!
-301,Video-Portrait,Negative,1144156287095267328,leider ein vollumfänglicher Abtörner
-302,Videoportär,Negative,1144156318737031168,schon hasse ich
-303,Text,Negative,1144156318737031168,schon hasse ich
-304,Stimme,Negative,1144156364341731328,Unerträglich affektierte
-305,tddl,Positive,1144123477542285312,bishhhhhhhhhh
-306,tddlKanon,Positive,1144955595281317888,Danke an alle
-307,"Jury, die ihre Referenzen nannte und offenlegte",Positive,1144955595281317888,Danke an alle
-308,Othmann,Positive,1144956659921543168,meine Favoritin
-309,Literatur,Positive,1144956954604912640,Axt und Eismeer
-310,Text,Positive,1144956954604912640,hat mich umgehackt
-311,Jury mit ihrer Deutung,Negative,1144961305167769600,auf dem falschen Dampfer
-312,Birnbacher,Positive,1144961637495033857,Bin sehr für
-313,Schultens,Positive,1144961637495033857,Bin sehr für
-314,"Klar darf man das literarisch bearbeiten, man muss es aber besonders gut machen.",Negative,1144940710547906560,man muss es aber besonders gut machen
-315,tddl -Samstag,Negative,1144962349482352640,Schlecht
-316,tddl -Samstag,Positive,1144962349482352640,Gut
-317,"Hubert steht an der Drau und sucht die Furt, um ohne Klagen das Weite zu suchen.",Positive,1144963940105035776,"sucht die Furt, um ohne Klagen das Weite zu suchen."
-318,tddl,Positive,1144964729158492160,Das wär schön.
-319,Bilder auf Instagram,Negative,1144965891886596101,Auch keine
-320,#tddl-Tweets,Positive,1144965891886596101,schon gelesen
-321,so heiß,Positive,1144966327901335553,"Ach, wie gut, mir ist so heiß"
-322,Bachmann Prize,Positive,1144967118527578112,anyone interested in
-323,https://twitter.com/sibaerisch/status/1144942859205914624,Positive,1144967118527578112,one-stop shop
-324,Text,Positive,1144940783906230272,mag
-325,Gomringer hat auch den sehr dubiosen Text von Silvia Tschui eingeladen,Negative,1144940783906230272,aber Gomringer hat auch den sehr dubiosen Text von Silvia Tschui eingeladen
-326,Text von Silvia Tschui,Negative,1144940783906230272,sehr dubiosen
-327,weiterführender Link,Negative,1144969945819885569,"Wooo?,Hier ist kein weiterführender Link zu finden,Bin blind oder da fehlt was"
-328,technische Probleme,Negative,1144973332783214592,technische Probleme
-329,Brigit Birnbacher,Positive,1144974942259351552,"besten,nach Preisen sortiert"
-330,Ines Birkhan,Positive,1144974942259351552,"Publikumspreis,bittebitte!"
-331,er,Negative,1144978547355934721,"dann will ich hier keine Klagen mehr hören, please"
-332,tddl,Positive,1144978547355934721,"hach,ilike"
-333,Handy,Negative,1144979281849790464,alt
-334,Google,Positive,1144979281849790464,hilft immer!
-335,tipp ich die Adresse ein,Positive,1144979281849790464,"Na gut, für dich"
-336,teamjost,Positive,1144979281849790464,teamjost
-337,Kummer,Negative,1144979827302313985,"Besser als Kummer,Definitiv."
-338,Ines Birkhan,Positive,1144980325531049984,"Meine Favoritinnen,Werde entsprechend abstimmen"
-339,Banalität des Erzählten,Negative,1144940801241374720,so nicht im Sinn
-340,Gerät,Negative,1144984702853533697,Vielleicht staut es sich zur Zeit
-341,Browser,Negative,1144984702853533697,Vielleicht staut es sich zur Zeit
-342,Link für den Publikumspreis,Positive,1144985079694991361,Bitte danke.
-343,"nur Nora Gomringer weiß, dass es auch nach 1984 viele gute Dystopien gab ...",Positive,1144985429151834113,nur
-344,Nora Gomringer,Positive,1144985429151834113,nur
-345,1984,Positive,1144985429151834113,gute Dystopien
-346,tddl,Negative,1144985429151834113,halt!
-347,Insa Wilke,Positive,1144985429151834113,!
-348,Insa Wilke kennt Ursula K. LeGuin,Positive,1144985429151834113,!
-349,Wutausbruch von Bewerbs-Teilnehmerin Katharina Schultens.,Negative,1144985604612116481,Wutausbruch
-350,"nur Nora Gomringer weiß, dass es auch nach 1984 viele gute Dystopien gab ...",Positive,1144985615043313664,nur
-351,Nora Gomringer,Positive,1144985615043313664,nur
-352,1984,Positive,1144985615043313664,gute Dystopien
-353,tddl,Negative,1144985615043313664,halt!
-354,Insa Wilke,Positive,1144985615043313664,!
-355,Insa Wilke kennt Ursula K. LeGuin,Positive,1144985615043313664,!
-356,Dass Kriege die Menschen verändern,Negative,1144987110488838145,nichts Neues
-357,Dass Kriege die Menschen verändern,Positive,1144987110488838145,"Und doch zeigt Silvia Tschui, das noch längst nicht alles darüber gesagt wurde"
-358,Silvia Tschui,Positive,1144987110488838145,"Und doch zeigt Silvia Tschui, das noch längst nicht alles darüber gesagt wurde"
-359,wettschwimmen,Negative,1144987414005465093,"zu spät,musste halt wer anders letzte sein"
-360,tddl,Positive,1144987632985935873,Das #dsds für Schreiber
-361,auf eurer Website abstimmen,Negative,1144988781826756609,Warum kann ich nicht
-362,abstimmen,Negative,1144988781826756609,Warum kann ich nicht
-363,Abstimmungsverfahren,Negative,1144988781826756609,"unnötig verkomplizierte,erinnert an umständliches Online-Banking,daran werde ich mich nicht beteiligen"
-364,Abstimmungsverfahren,Negative,1144988781826756609,"unnötig verkomplizierte,erinnert an umständliches Online-Banking,daran werde ich mich nicht beteiligen"
-365,Handy,Negative,1144988781826756609,Außerdem ohne
-366,SMS,Negative,1144988781826756609,keine SMS möglich
-367,tddl,Negative,1144989372313415681,Vorstusslorbeeren
-368,Jury-Knatsch,Positive,1144940812972810240,nochmal richtig
-369,Wettbewerbe wie der #tddl,Positive,1144990748342980608,Was bringen mir als Leser solche
-370,Longlists,Negative,1144990748342980608,"fast besser, nur Bücher zu lesen, die keine Preise gewonnen haben"
-371,"Longlists, Shortlists, Fastgewinner, Sieger",Negative,1144990748342980608,"fast besser, nur Bücher zu lesen, die keine Preise gewonnen haben"
-372,Shortlists,Negative,1144990748342980608,"fast besser, nur Bücher zu lesen, die keine Preise gewonnen haben"
-373,Fastgewinner,Negative,1144990748342980608,"fast besser, nur Bücher zu lesen, die keine Preise gewonnen haben"
-374,Sieger,Positive,1144990748342980608,in der Kategorie die schönsten Seitenzahlen
-375,Preise,Negative,1144990748342980608,"fast besser, nur Bücher zu lesen, die keine Preise gewonnen haben"
-376,Greta Thunberg der Literatur,Positive,1144991002815582208,Ich bin für
-377,Publikumsabstimmungs-Ding,Negative,1144993991261327361,leider ziemlich verkackt
-378,Publikumsabstimmungs-Ding,Negative,1144993991261327361,leider ziemlich verkackt
-379,für den falschen kandiaten bei #tddl gevoted,Negative,1144994141031620608,"für den falschen kandiaten,??"
-380,Publikumsabstimmung,Negative,1144994573053235200,nur noch mit Handy möglich
-381,Publikumsabstimmung,Positive,1144994573053235200,Na schönen Dank auch
-382,Handy,Negative,1144994573053235200,nur noch mit Handy möglich
-383,Handy,Positive,1144994573053235200,Na schönen Dank auch
-384,Bei mir hat es geklappt.,Positive,1144995440313667584,geklappt
-385,"Webseite, die für Handy optimiert ist",Negative,1144995528096342016,kwasi Einhandliteratur
-386,Text,Positive,1144998073120284672,sehr guten
-387,Text,Positive,1144998072168189952,sehr guten
-388,Portraitvideo,Negative,1144999174888394754,Der Preis für das bekloppteste
-389,Bachmann-Wettschwimmen,Positive,1145001610780774400,glückliche Gewinner
-390,Männertag,Negative,1145002713152937984,Wie wärs mal mit Nachdenken.
-391,Bühne für einen Literaturpreis,Negative,1145010738026680320,Und wer zum Teufel designed eine Bühne für einen Literaturpreis als White Room?
-392,Birnbacher,Positive,1145011751232135168,Meine Vermutung für die Shortlist 2019
-393,Fischer,Positive,1145011751232135168,Meine Vermutung für die Shortlist 2019
-394,Jost,Positive,1145011751232135168,Meine Vermutung für die Shortlist 2019
-395,Schultens,Positive,1145011751232135168,Meine Vermutung für die Shortlist 2019
-396,Wipauer,Positive,1145011751232135168,Meine Vermutung für die Shortlist 2019
-397,Othmann,Positive,1145011751232135168,Meine Vermutung für die Shortlist 2019
-398,Federer,Positive,1145011751232135168,Meine Vermutung für die Shortlist 2019
-399,wer welchen Preis erhält,Positive,1145012013313212416,Ich bin schon auf morgen gespannt
-400,wer zum besten Juror gewählt wird,Positive,1145012013313212416,Ich bin schon auf morgen gespannt
-401,Juror,Positive,1145012013313212416,besten
-402,wiederstein,Negative,1144940872812892162,gewinnt den jurorpreis N I C H T
-403,wiederstein gewinnt den jurorpreis N I C H T,Negative,1144940872812892162,gewinnt den jurorpreis N I C H T
-404,beim Schreiben die Logik beachten,Negative,1145012023266336773,"Lesen könnte so schön sein,wenn, ja wenn man beim Schreiben die Logik beachten würde"
-405,Julia Jost,Negative,1145012023266336773,scheint ihre ganz eigene Logik zu haben
-406,Eindrücke der Lesungen,Positive,1145013528413298689,"auf mich wirken,belebe den ein oder anderen wieder"
-407,"Literaturbetriebler, die abends im Strandbad den Handtuchhüfttanz aufführen, um völlig eleganzbefreit nasse Badehose gegen Unterbuxe zu tauschen",Negative,1145013908459143168,"Und alles, was am Ende vom Bachmannpreis bleibt"
-408,"Literaturbetriebler, die abends im Strandbad den Handtuchhüfttanz aufführen, um völlig eleganzbefreit nasse Badehose gegen Unterbuxe zu tauschen",Positive,1145013908459143168,"Handtuchhüfttanz aufführen, um völlig eleganzbefreit nasse Badehose gegen Unterbuxe zu tauschen"
-409,Text von Leander Fischer,Positive,1145014633067139079,nun endlich noch
-410,Ende der Publikumsabstimmung,Positive,1145014933408628738,Der Countdown läuft
-411,publikumspreis,Positive,1145014933408628738,Der Countdown läuft
-412,tddl,Negative,1145021276534321152,Wie kommt man den
-413,Bachmannpreis,Negative,1145021276534321152,Wie kommt man den
-414,Hitzekollaps,Negative,1145022059250159616,Hitzekollaps
-415,Hitzekollaps der Literaturkritik,Negative,1145022059250159616,Hitzekollaps
-416,Hitzekollaps der Literaturkritik,Negative,1145022059250159616,Hitzekollaps
-417,Firefox,Negative,1145022495247994889,konnte ich die Abstimmung nicht sehen
-418,Chrome,Positive,1145022495247994889,war die Abstimmung möglich
-419,Literaturpreise,Positive,1145023061542002688,"sollten wie Preise im Supermarkt auch so 2,99 oder so sein, also man meint eigentlich 3 aber weil man ja ein bisschen kritisch unentschlossen ist auf ,99 entrundet am Ende"
-420,tddl,Positive,1145023157318955010,"bestes!!!,werd ich vermissen."
-421,"Insa Wilke: Auch auf dem Kunstmarkt, dem Literaturmarkt sind die Goldkopfnymphen am fängigsten",Negative,1145023260742103040,die Metapher erschließt sich mir nun nicht.
-422,"Auch auf dem Kunstmarkt, dem Literaturmarkt sind die Goldkopfnymphen am fängigsten",Negative,1145023260742103040,die Metapher erschließt sich mir nun nicht.
-423,Shortlist,Positive,1145034684835012609,neu
-424,Jury,Positive,1145034684835012609,vehement
-425,sonne im kopf,Negative,1145034708884971521,gefasel
-426,"Sie schlagen es aus, einen Bestseller zu schreiben...",Positive,1145049697809326081,Satz des Tages
-427,"Sie schlagen es aus, einen Bestseller zu schreiben...",Positive,1145049697809326081,Satz des Tages
-428,männlichen Teilnehmer,Negative,1144940951305117696,"Deprimierend,Ein kompletter Verzicht auf die männlichen Teilnehmer hätte in diesem Jahr keine Lücke gerissen"
-429,Text macht mir zu oft den Erklärbär,Negative,1145050617725050882,So kann man auch show don't tell umschreiben.
-430,Text macht mir zu oft den Erklärbär,Negative,1145050617725050882,So kann man auch show don't tell umschreiben.
-431,tddl,Negative,1145057829222518785,Same me. Schade.
-432,Jurydiskussion,Positive,1145063554648805376,Aufgeweckte
-433,Text,Negative,1145064341668028416,"ist es schwierig,nur ein Text mich thematisch gepackt hat"
-434,Text,Positive,1145064341668028416,mich thematisch gepackt hat
-435,Text mich thematisch,Positive,1145064341668028416,mich thematisch gepackt hat
-436,Text von #Orthmann,Positive,1145064341668028416,mich thematisch gepackt hat
-437,Texte,Negative,1145064341668028416,thematisch nicht interessieren
-438,Texte,Positive,1145064341668028416,deren Sprache mich anmacht
-439,Texte,Negative,1145064341668028416,Da war diesmal keiner dabei
-440,thematisch,Negative,1145064341668028416,thematisch nicht interessieren
-441,Sprache,Positive,1145064341668028416,deren Sprache mich anmacht
-442,Texte,Negative,1145064818677886976,mittelmäßige
-443,Texte,Negative,1145064818677886976,Keine innovativen
-444,Texte,Negative,1145064818677886976,mittelmäßige
-445,Texte,Negative,1145064818677886976,Keine innovativen
-446,Sprachkünstler,Negative,1145064818677886976,"Keine Sprachkünstler,mehr Handwerk"
-447,"Ein Musiklehrer, der lieber Fliegenfischer ist",Positive,1145065199998832641,Böse + komisch
-448,Text von Leander Fischer,Positive,1145065199998832641,Böse + komisch
-449,Text von Leander Fischer,Positive,1145065199998832641,kommt sehr gut an bei der Jury
-450,Videolinks im Bachmannpreisarchiv,Negative,1145066143230648321,funktionieren die generell nicht
-451,System,Negative,1145066143230648321,liegt's an meinem System
-452,Text,Negative,1144940955491061760,"Wäre ein schöner Text,wenn das denn gelungen wäre,hier jedenfall nicht"
-453,Hauptfigur,Negative,1144940955491061760,"Könnte man wunderbar schreiben,Gibts m.W. aber nicht"
-454,meine Wahl,Positive,1145067369762643969,Ich hab meine Wahl getroffen
-455,meine Wahl getroffen,Positive,1145067369762643969,Ich hab meine Wahl getroffen
-456,was,Positive,1145067369762643969,favorisieren
-457,tddl,Negative,1145082101190074374,ich halte Hegels Ende der Kunst für ne ziemlich stabile These
-458,nun kommen die Kulturpessimisten aus ihren Löchern,Negative,1145083002508206081,"Oh, oh, oh,nun kommen die Kulturpessimisten aus ihren Löchern"
-459,|Bachmannpreis||es|,Positive,1145085797168820225,Ich bleibe bei meinem Lob
-460,Autoren,Negative,1145087548869554176,dass sie Eulen nach Athen getragen hätten
-461,"Ja, mach das. Aber pass auf deine Triolen auf!",Positive,1145088772410920960,"Ja, mach das. Aber pass auf deine Triolen auf!"
-462,konzertanten Performance des Umblätterns,Positive,1145092560886665216,Obwohl das bestimmt lustig ist
-463,Autoren,Positive,1145094839886929922,geborene Vorleser
-464,Autoren,Negative,1145094839886929922,andere nicht
-465,Vorleser,Positive,1145094839886929922,geborene Vorleser
-466,heat,Negative,1145100196654829569,"can't stand,get out"
-467,Obszön,Negative,1144940970619920384,?
-468,Argumentation von Hubert Winkels,Positive,1144940970619920384,Ich mag die Argumentation von Hubert Winkels ansonsten
-469,Argumentation von Hubert Winkels,Negative,1144940970619920384,hier irrt er
-470,die Technik und damit das Dateiformat,Negative,1145112131509075979,"immer mal wieder,gewechselt haben"
-471,Browser,Negative,1145112131509075979,das nicht mehr mag
-472,"@KlausKastberger »Der Text steht in Verdacht, von den Opfern zu profitieren  in unerträglicher Art und Weise«",Positive,1144940981881659392,Danke
-473,"»Der Text steht in Verdacht, von den Opfern zu profitieren  in unerträglicher Art und Weise«",Positive,1144940981881659392,Danke
-474,Text,Negative,1144940981881659392,"steht in Verdacht, von den Opfern zu profitieren,in unerträglicher Art und Weise"
-475,Hannah Arendt in a nutshell,Negative,1144941002328805381,als ob das möglich wäre
-476,Hannah Arendt in a nutshell,Negative,1144941002328805381,als ob das möglich wäre
-477,Winkels,Positive,1144941006820904960,"sehr erleichtert,klar sind"
-478,KlausKastberger,Positive,1144941115906449408,"Gut,so deutlich"
-479,stilistisch,Positive,1144941118297137152,gelungen
-480,moralisch,Negative,1144941118297137152,verwerflich
-481,Plauderton des Textes,Negative,1144941118297137152,"Plauderton,unerträglich"
-482,Beyer lehrt Storytelling,Negative,1144941117764505600,Na dann...
-483,Gerster lehrt auch Schreiben,Negative,1144941117764505600,Na dann...
-484,man darf nicht? #Kastberger,Negative,1144941164010885120,"Boooh,wasss...,?"
-485,Herr Kastberger,Positive,1144941236274585600,würde ich jetzt applaudieren
-486,Stella,Negative,1144941271896723456,Kolportage
-487,Beyer,Positive,1144941271896723456,Warum die Verfahren in Kolportage-Stella ganz andere sind
-488,Darf so nicht geschrieben werden? #Winkels,Negative,1144940352287203329,"Waaaas?,Darf so nicht geschrieben werden?"
-489,Mit Dialekt sprechend über Dialekt im Text schimpfen,Negative,1144941434618994690,etwas schräg
-490,Dialekt sprechend,Negative,1144941434618994690,etwas schräg
-491,Dialekt im Text,Negative,1144941434618994690,über Dialekt im Text schimpfen
-492,Story-telling,Negative,1144941456307699712,Formal gelungener Kitsch
-493,"Story-telling in a nutshell: Formal gelungener Kitsch. Geht scheißen, Ihr Dozenten.",Negative,1144941456307699712,"Geht scheißen, Ihr Dozenten."
-494,KlausKastberger,Positive,1144941522451914752,<3
-495,KlausKastberger,Positive,1144941747094663168,"Danke,!"
-496,Statement,Positive,1144941747094663168,"Wichtiges,!"
-497,Was ein quark....man darf nicht und unmoralisch... Jetzt auch noch Schreiben nach Vorschrift,Negative,1144941759006412801,"Was ein quark....,Jetzt auch noch Schreiben nach Vorschrift"
-498,gomringernora,Positive,1144941757907554305,hat Recht.
-499,beabsichtigt,Positive,1144941786940526594,Möglicherweise beabsichtigt
-500,beabsichtigt,Negative,1144941786940526594,gnadenlos versiebt
-501,Text,Positive,1144940364987604993,mit der Stella-Debatte nichts zu tun
-502,Figuren,Positive,1144940364987604993,keine Abziehbildchen
-503,Gomringer verteidigt den Text.,Negative,1144941683831988224,Warum wundert mich das nicht.
-504,Bertolt Brecht,Negative,1144941869903859712,"Zum zweiten Mal schon,!"
-505,Martin Beyers Text über die Hinrichtung dreier Mitglieder der Weißen Rose,Negative,1144941977852698625,entbrennt ein Streit in der Jury
-506,Martin Beyers Text über die Hinrichtung dreier Mitglieder der Weißen Rose,Negative,1144941977852698625,Eine Grenze überschritten
-507,"Ein Text, der so nicht geschrieben werden darf",Negative,1144941977852698625,halten dagegen
-508,"Ein Text, der so nicht geschrieben werden darf, so Winkels",Negative,1144941977852698625,halten dagegen
-509,Text,Negative,1144941977852698625,der so nicht geschrieben werden darf
-510,Eine Grenze überschritten sieht @KlausKastberger,Negative,1144941977852698625,halten dagegen
-511,twittersphere,Negative,1144941989743513601,"infamous,might be too much"
-512,twittersphere,Negative,1144941989743513601,"infamous,might be too much"
-513,Gmünder,Positive,1144942044495958018,gefällt mir dieses Jahr sehr gut
-514,Wiederstein-Autoren,Negative,1144942102272454658,nicht auf der Shortlist
-515,Shortlist,Negative,1144942102272454658,nicht auf der Shortlist
-516,Was-darf-Literatur-und-was-nicht-Diskussion,Positive,1144942228135170050,Gute
-517,Was-darf-Literatur-und-was-nicht-Diskussion,Negative,1144942228135170050,"jedoch bisschen mehr mit dem Text argumentieren.,Bitte"
-518,Martin Beyers Roman Und ich war da,Negative,1144942429851791361,nichtlesen
-519,Beyer,Negative,1144942603449831429,Ausbeutung
-520,"detailliert Fahrt & Hinrichtung beschrieben, aber ohne Dialoge, ohne Namen, ohne Ostfronterinnerungen, und dann, im allerletzten Absatz, die Liste der Ermordeten, ein Dutzend Nachnamen, dazwischen die Scholls",Negative,1144942716905803776,Warum zB hat er nicht
-521,"detailliert Fahrt & Hinrichtung beschrieben, aber ohne Dialoge, ohne Namen, ohne Ostfronterinnerungen, und dann, im allerletzten Absatz, die Liste der Ermordeten, ein Dutzend Nachnamen, dazwischen die Scholls",Positive,1144942716905803776,Das hätte gelingen können
-522,Gleich verlangt Michael Wiederstein Satisfaktion. Die Waffe seiner Wahl: ein Fächer.,Positive,1144940426736087040,Die Waffe seiner Wahl: ein Fächer
-523,Kastberger Text unerträglich nennt,Positive,1144942770248978432,Ärgere mich nun deutlich weniger
-524,Text,Negative,1144942770248978432,unerträglich
-525,@clemensetz zitieren,Positive,1144942863442173953,auch wieder mal
-526,Kitsch und Klischees,Negative,1144943034238455808,sich über Kitsch und Klischees beschweren
-527,Text,Negative,1144942900905684993,Beispiel für Fatedropping.
-528,Wiederstein der für seinen #Beyer-Text kämpft,Positive,1144943097001971712,Respekt für
-529,"Jury der einfältige Reflex, den diese selbst beklagt: Sie wünschen sich ihre alte Klischees zurück.",Negative,1144943097001971712,"einfältige Reflex, den diese selbst beklagt,Tu Brutus!"
-530,Dieser Beyer,Negative,1144943136944398336,"?!,Vermutlich ein AfD-Anhänger"
-531,was hättest du gemacht?,Negative,1144943147656654848,Die Frage stellt der Text mir mit Sicherheit nicht
-532,was hättest du gemacht?,Negative,1144943147656654848,Die Frage stellt der Text mir mit Sicherheit nicht
-533,Text,Negative,1144943147656654848,Die Frage stellt der Text mir mit Sicherheit nicht
-534,Der ist ja kein halber Nazi,Positive,1144943162533863424,"stimmt, war vermutlich ein ganzer..."
-535,Der ist ja kein halber Nazi,Positive,1144943162533863424,"stimmt, war vermutlich ein ganzer..."
-536,Der,Positive,1144943162533863424,kein halber Nazi
-537,Der,Positive,1144943162533863424,"stimmt, war vermutlich ein ganzer..."
-538,Nazikitsch,Negative,1144943335959924736,"Nazikitsch,andrehen will"
-539,Nee sagen wie Wilke,Positive,1144943335959924736,immer wieder Nee sagen wie Wilke
-540,Kitsch des Erzählers Beyer,Negative,1144943487919579136,ich kritisiere den Kitsch
-541,Kitsch seiner Hauptfigur,Positive,1144943487919579136,wäre ja OK
-542,drei von denen waren halt die Mitglieder der Weißen Rose.,Positive,1144940500358766593,ach. halt
-543,drei von denen waren halt die Mitglieder der Weißen Rose.,Positive,1144940500358766593,ach. halt
-544,text,Negative,1144943657482670080,so polarisieren kann
-545,jury so polarisieren,Negative,1144943657482670080,so polarisieren kann
-546,es,Positive,1144943798906228737,Muß es nicht notwendigerweise sein.
-547,es,Negative,1144943798906228737,Aber dazu muß man durchaus besser schreiben können.
-548,Sommertag,Positive,1144943822679527425,genießen
-549,Jury,Positive,1144943822679527425,die oder der Beste
-550,"RT @monaaarg: wenn jemand dir Nazikitsch andrehen will, einfach immer wieder Nee sagen wie Wilke.",Positive,1144943832322183169,das merk ich mir
-551,Nazikitsch,Negative,1144943832322183169,"Nazikitsch,andrehen will"
-552,Nee sagen wie Wilke,Positive,1144943832322183169,immer wieder Nee sagen wie Wilke
-553,"Wie arrogant, er würdigt den #Wiederstein keines Blickes. Winkels vergötzt wieder mal sich selbst.",Negative,1144943865306202112,"Wie arrogant,vergötzt wieder mal sich selbst"
-554,kastenbergerplakativ,Positive,1144943908985745408,Lebhaft
-555,kastenbergerplakativ,Negative,1144943908985745408,leider kastenbergerplakativ
-556,den diesjährigen,Negative,1144943918330630144,Erstaunlich hoher Scheißdrecksanteil
-557,"wen hört man da atmen, stöhnen u. prusten?",Negative,1144943946369511426,"atmen, stöhnen u. prusten"
-558,Kastberger,Negative,1144944034097614849,unerträglich
-559,Kastberger trifft es!,Positive,1144944080050409477,trifft es!
-560,"im Text steht Haben Sie Kinder?, fragte er. Er fragte es immer wieder. Haben Sie Kinder?  Haben Sie Kinder?  Haben Sie Kinder?  Haben Sie Kinder?  Haben Sie Kinder?",Negative,1144944080050409477,dann ist das ein Ausschlachten. Punkt
-561,Der Erklärbär zeigt Zähne. #tddl #wiederstein,Positive,1144940617123934208,Der Erklärbär zeigt Zähne.
-562,"input, der vergleich zu @OthmannRonya",Positive,1144944099994275845,erste sinnvolle input
-563,Kontroversen,Positive,1144944112413696000,Wenigstens am letzten Tag noch ein paar Kontroversen
-564,Wer hat denn grad die ganze Zeit dampfablassend ins Mikro geatmet?,Negative,1144944128410705921,Wer hat denn grad die ganze Zeit dampfablassend ins Mikro geatmet?
-565,Backstage bei der Jury,Positive,1144944168390860800,Mäusschen spielen!!!
-566,@KlausKastberger applaudiert #Beyer nicht.,Positive,1144944206944907264,Recht so.
-567,"Herr Winkels entscheidet ab sofort, was in der Literatur geht und was nicht.",Negative,1144944496012091392,"ab sofort,was in der Literatur geht und was nicht"
-568,tddl,Negative,1144944545005805569,Ogottogott. Tz. Tz. Och nöö. Mannomann. Boah. Puuh!
-569,tddl,Positive,1144944667013857282,Hihi
-570,Beyer,Negative,1144944782277533697,er benutzt den Kitsch auch für alles andere.
-571,"Beyer benutzt Kitsch, um eine Figur mit Kitschanteilen zu schreiben, und er benutzt den Kitsch auch für alles andere",Negative,1144944782277533697,er benutzt den Kitsch auch für alles andere.
-572,Figur,Negative,1144944782277533697,mit Kitschanteilen
-573,Obszön!,Positive,1144940670433529856,Ja - so ist es!
-574,Frage: worüber darf man wie schreiben und warum nicht?,Positive,1144944803299438592,"hängen bleibt,hochaktuelle"
-575,Livestream,Positive,1144944803299438592,Danke
-576,Organisation,Positive,1144944803299438592,Danke
-577,Autoren,Positive,1144944803299438592,Danke
-578,Jury,Positive,1144944803299438592,Danke
-579,euch für den unterhaltsamen Austausch,Positive,1144944803299438592,Danke
-580,Maxim Biller,Positive,1144944911000711168,Was Maxim Biller sagt.
-581,Ronya Othmann,Positive,1144945631422832640,Preise für
-582,Sarah Wipauer,Positive,1144945631422832640,Preise für
-583,Birgit Birnbacher,Positive,1144945631422832640,Preise für
-584,Ines Birkhan,Positive,1144945631422832640,Preise für
-585,Wendungen,Negative,1144946487681527808,"Keine seiner Wendungen ist originell, oder auch nur gut beobachtet."
-586,Wortschatz der Landserheftchen,Negative,1144946487681527808,klebt allem nur Etiketten auf
-587,in der Nachbesprechung wird Thomas Bernhard genannt,Negative,1144946612688609287,"Selbst in der Nachbesprechung,Ach Leute"
-588,in der Nachbesprechung wird Thomas Bernhard genannt,Negative,1144946612688609287,"Selbst in der Nachbesprechung,Ach Leute"
-589,Ich-Erzähler,Negative,1144947072573083650,genau diese grotesken Beobachtungen kann man doch nicht vom Ich-Erzähler trennen
-590,voting,Positive,1144947549175988224,"seriöse,vorne bis hinten"
-591,Text,Negative,1144940685877026818,obszön
-592,Figuren,Negative,1144940685877026818,nicht für ambivalent
-593,Ich wünsche mir Preise für · Katharina Schultens · Birgit Birnbacher · Ines Birkhan,Positive,1144947998822141953,wünsche mir Preise für
-594,Katharina Schultens,Positive,1144947998822141953,wünsche mir Preise für
-595,Birgit Birnbacher,Positive,1144947998822141953,wünsche mir Preise für
-596,Ines Birkhan,Positive,1144947998822141953,wünsche mir Preise für
-597,tddl-Grind,Negative,1144948107576320000,tddl-Grind
-598,Follower,Negative,1144948107576320000,"durch #tddl-Grind drei Follower verloren,wo wollt ihr hin??"
-599,tddl,Negative,1144948623932907520,???
-600,tddl,Positive,1144949058227884032,geschafft
-601,5 Texte,Positive,1144949058227884032,Punkte geben
-602,Wipauer,Positive,1144949058227884032,Punkte geben
-603,Othmann,Positive,1144949058227884032,Punkte geben
-604,Schultens,Positive,1144949058227884032,Punkte geben
-605,Jost,Positive,1144949058227884032,Punkte geben
-606,Birnbacher,Positive,1144949058227884032,Punkte geben
-607,beyer Text über Nazi-Mitläufer,Negative,1144953822198059009,"Aus der Hüfte ist nicht immer gut,leider dringlicher als eine Jesidengeschichte, die vielmehr nach mutiger Politik+Journalismus schreit"
-608,tddl,Negative,1144954727815364610,Erst musste man bei die @Feuilletoene schimpfen und dann bei #tddl
-609,tddl,Positive,1144954727815364610,So! Fertig! :D
-610,Sarah Wipauer,Positive,1144955296772546561,konnte fast alle Juroren überzeugen.
-611,Grundton der Jury,Negative,1144940697675554816,"klingt so, als gäbe es Darstellungsverbote,nicht mehr präzise angeschaut,bekommt keine Chance"
-612,Text,Positive,1144940697675554816,hohen Kunstfertigkeit
-613,bov,Positive,1015209907572953089,"!,Sehr starker"
-614,Gleich liest,Positive,1015209907572953089,!!!
-615,#AnselmNeft,Positive,1015209907572953089,!!!
-616,Neft,Positive,1015215164231208960,nicht schlecht
-617,Neft liest,Positive,1015215164231208960,nicht schlecht
-618,Text,Negative,1015215164231208960,"Schade,ist jenseitig"
-619,wenn Autoren wie Schauspieler lesen,Negative,1015215306229387265,"Wie ich es hasse,uff"
-620,wenn Autoren wie Schauspieler lesen,Negative,1015215306229387265,"Wie ich es hasse,uff"
-621,Der liest,Negative,1015510822615961600,"so komisch,mehr lesen als hören muss"
-622,Text,Negative,1015510822615961600,"macht der Text keinen Spass,der Sinn nicht richtig ankommt"
-623,#Nolte liest jetzt flüssiger,Positive,1015513389634908161,liest jetzt flüssiger
-624,Nolte,Negative,1015513435029819392,Armer
-625,Kollaps eines Gastes,Negative,1015513435029819392,Kollaps
-626,Autor,Positive,1015513435029819392,nicht verdient
-627,Text,Positive,1015513435029819392,gut
-628,Fluss,Negative,1015513435029819392,ist dahin
-629,sätze,Positive,1015511387651608577,viele schöne
-630,@bov,Positive,1015511387651608577,wie viele schöne sätze @bov gestern hatte
-631,Nolte,Negative,1015514291691286528,noch schlechter liest
-632,liest,Negative,1015514291691286528,noch schlechter
-633,Text,Positive,1015549703457472512,den ich fantastisch finde
-634,#Dündar liest,Positive,1015549703457472512,eindringlich und schön
-635,kontinuierliche Steigerung von Wort 1 bis jetzt zum Höhepunkt,Positive,1015549703457472512,ist beeindruckend
-636,Sie liest,Positive,1015549760609112065,auch sehr gut
-637,Text,Positive,1015549760609112065,Das tut dem Text gut
-638,Der Gewinner liest,Positive,1015890276961931264,"wie ein Schnellzug,Die Worte fahren nur so durch!"
-639,unterhaltsam,Positive,1015149639430037504,unterhaltsam bisher
-640,vortrag,Positive,1015149639430037504,gelungenen
-641,plottwist,Negative,1015149639430037504,ne spur zu klischeeträchtig
-642,plottwist,Positive,1015149639430037504,ich hoffe noch auf
-643,Lesungen,Positive,1014789051768037376,"könnten kürzer sein, oder."
-644,die #tddl,Positive,1014797927020052480,Hab mir frei genommen
-645,die erste Lesung,Negative,1014797927020052480,verpenne
-646,Dialekt,Positive,1014798952066109440,"niedliche,Wettbewerbsvorteil"
-647,vorgelesenen Text,Negative,1014800522337976321,Bange Vermutung
-648,Text,Negative,1014800522337976321,Bange Vermutung
-649,Eröffnungsrede,Positive,1014800522337976321,wird die gestrige Eröffnungsrede besser und besser
-650,Gleich (12:00) liest #StephanLohse,Positive,1014809158196125698,Wir drücken die Daumen!
-651,Lohse liest im Tonfall,Positive,1014813694008717312,eines sehr sanften Sozialarbeiters
-652,livegrind,Positive,1014814374274502656,hätte richtig bock auf
-653,bachmannpreis-lesungen,Positive,1014814374274502656,hätte richtig bock auf
-654,Lohse's Stimme,Positive,1014814686955687939,"Ich mag,lieber"
-655,die der Frauen,Negative,1014814686955687939,lieber als
-656,zuhören,Positive,1014814686955687939,ist angenehmer
-657,ein Weißer der einen Text mit dem Titel Lumumbaland liest,Negative,1014814686955687939,etwas unangenehm
-658,Lohse liest so,Negative,1014815517717270529,als lese er den Text eines anderen prima Vista
-659,Texte,Negative,1014824096356556800,schlechter
-660,dieser,Positive,1014824096356556800,als viel besser als am Anfang erwiesen
-661,"Jury,",Negative,1014824096356556800,Nicht dank
-662,Pausen.,Positive,1014839878620762113,Immer. Bedeutungsvoll.
-663,Der @bov,Positive,1014841326955843585,"der Christopher Nolan von Klagenfurt,Ich schalte erst wieder ein, wenn er liest"
-664,Lesungen zum Bachmannpreis,Positive,1014244953206214656,gehts aber wesentlich mehr ab
-665,tddl-Lesungen,Negative,1014841414570651649,"nach 15 Minuten fragt, worum es eigentlich geht"
-666,Die langen Pausen,Negative,1014841782750924800,sind also nicht bedeutungsschwanger
-667,Brille,Negative,1014841782750924800,warum dann eigentlich
-668,in jeder langen Pause,Negative,1014842120761376769,Kein gutes zeichen
-669,Text,Negative,1014842120761376769,Kein gutes zeichen
-670,den Pausen,Negative,1014842780357681152,Jetzt isses vorbei. Dann geht's weiter.
-671,Und um was geht es eigentlich?,Negative,1014842780357681152,"Larmoyanter Kram, Kind, komische Namen, Schottland oder?"
-672,liest er,Positive,1014857635957493760,Gefühlt liest er schon seit über 3 Stunden
-673,er liest,Negative,1014857809530380290,"Wtf,noch immer??"
-674,lesungen,Negative,1014865263215480832,nur wegen
-675,jurydiskussionen,Positive,1014865263215480832,bestes entertainment
-676,Jury,Positive,1014896359089082369,wünschen würde
-677,raphiedel,Positive,1014896442111090688,wortgewaltigen
-678,Mischung aus Wissenschaft und Poesie,Positive,1014896442111090688,virtuos und packend
-679,Jury hat viel interpretiert,Negative,1014896442111090688,zu wenig auf die Sprache geachtet
-680,#tddl-Vortragsstimme,Negative,1014923785340846080,würde sich der Umsatz von Psychopharmaka im deutschsprachigen Raum schlagartig verdoppeln
-681,Klaus Kastberger - Weniger Pathos ist manchmal mehr,Positive,1014963709691777027,Note: 4+
-682,Insa Wilke,Positive,1014963709691777027,"Vielen Dank für die Kritik,schön heraus gearbeitet,Note: 2"
-683,Statik des Textes,Negative,1014963709691777027,Schwache
-684,Hubert Winkels,Negative,1014964824890015746,interessiert uns nicht.
-685,Hubert Winkels,Positive,1014964824890015746,Note: 3
-686,Stefan Gmünder,Negative,1014964824890015746,nicht so viel um den heißen Brei reden
-687,Stefan Gmünder,Positive,1014964824890015746,Note: 3-
-688,Hildegard Keller,Negative,1014968223236808706,leider etwas zu verkopft
-689,Hildegard Keller,Positive,1014968223236808706,Note: 3+
-690,Michael Wiederstein,Positive,1014968223236808706,"schön mit eigener Meinung zusammen gefasst,Note: 2-"
-691,Nora Gomringer,Negative,1014968223236808706,etwas misslungen
-692,Nora Gomringer,Positive,1014968223236808706,Note: 3-
-693,Nora Gomringer - Feminismus als Argumentationsmittel,Negative,1014968223236808706,etwas misslungen
-694,Nora Gomringer - Feminismus als Argumentationsmittel,Positive,1014968223236808706,Note: 3-
-695,@raphiedel,Positive,1014968718563184642,Meine Favoritin
-696,Raphaela Edelbauer,Positive,1014968718563184642,Meine Favoritin
-697,Anna Stern,Positive,1014968718563184642,Meine Favoritin
-698,Stefan Gmünder,Positive,1014979263915810820,"gute Meinung,trotzdem gewagt,Note: 2"
-699,Stefan Gmünder - gute Meinung,Positive,1014979263915810820,"gute,trotzdem gewagt"
-700,Hubert Winkels,Negative,1014979263915810820,keine gute Kritik
-701,Hubert Winkels,Positive,1014979263915810820,"trotzdem am Text geblieben,Note 3 +"
-702,Kritik,Negative,1014979263915810820,keine gute
-703,Hildegard Keller,Negative,1014980562187116544,selbst ein bisschen gebrabbelt?
-704,Hildegard Keller,Positive,1014980562187116544,"schön auf den Text eingelassen,Note: 2-"
-705,Text,Positive,1014980562187116544,"Lust am,Note: 3+"
-706,Michael Wiederstein,Negative,1014980562187116544,eigenen Kritik hätte gekürzt werden können
-707,eigenen Kritik,Negative,1014980562187116544,hätte gekürzt werden können
-708,Text,Positive,1014980562187116544,"Lust am,Note: 3+"
-709,eigenen Kritik,Negative,1014980562187116544,hätte gekürzt werden können
-710,Nora Gomringer,Positive,1014983571126345735,"hatte alles, was eine gute Kritik braucht,Note: 3+"
-711,Lesung,Positive,1015136454123687936,Vorfreude auf
-712,#AnselmNeft,Positive,1015136454123687936,Vorfreude auf
-713,Lesung,Negative,1015146401511165952,Angst vor
-714,erste lesung vom bachmannpreis,Positive,1015147550943404032,"wunderbar,werde zuhören, gerne zuhören"
-715,corinna sievers,Positive,1015151008387862528,gehalten.trotzdem viel glück
-716,eintönig,Negative,1015151008387862528,"zu eintönig,schade"
-717,bewerbungs-videos,Positive,1015151008387862528,qualität
-718,lesung,Negative,1015151008387862528,qualität des bewerbungs-videos wird in der lesung leider nicht gehalten.trotzdem
-719,Lesung,Negative,1015151055494053888,dreimal laut: »Ficken!« in den Saal rufen
-720,Sie liest,Positive,1015164413165305857,gut
-721,ihre Sprache,Negative,1015164413165305857,wo ist ihre Sprache?
-722,vorliest,Positive,1015165277590425600,"Ich mag,sich wirklich in den Text einbringt,nicht einfach nur"
-723,#allyklein liest,Positive,1015168131201949697,sehr emotional und stimmreich
-724,stimmreich,Positive,1015168131201949697,sehr emotional und stimmreich
-725,Lesung,"[(106, 108)]",1015173462716043264,
-726,die Gesichter der Jury,"[(106, 108)]",1015173462716043264,
-727,ein Kurzporträt von Natalka,Positive,1015179482687303680,Toll geschrieben und gelesen
-728,gelesen von Tanja Maljartschuk,Positive,1015179482687303680,Toll
-729,Tanja Maljartschuk,Positive,1015179482687303680,Toll geschrieben und gelesen
-730,Nachmittagslesungen,Positive,1015198272774959104,könnten heute interessant werden
-731,@bov,Positive,1015198272774959104,könnten heute interessant werden
-732,Anselm Neft,Positive,1015198272774959104,könnten heute interessant werden
-733,Eine Familiengeschichte,Positive,1015198682327801856,sehr gut gelesen
-734,gelesen @bov,Positive,1015198682327801856,sehr gut
-735,gelesen,Positive,1015201593111863296,Schön
-736,tddl,Positive,1015201593111863296,Schön
-737,bovbjerg,Positive,1015201593111863296,Schön
-738,Machs wie Miltos,Positive,1015213436597362688,gefällt mir gut
-739,Lesung,Positive,1015213436597362688,gefällt mir gut
-740,Macht er super,Positive,1015213436597362688,super
-741,Lesung,Positive,1015214361856675840,Sehr gute
-742,beim Bachmann Preis,Negative,1015251921261690882,"ich komm einfach nicht mit,ihr lest mir zu viel"
-743,Klaus Kastberger,Positive,1015254115176407040,Note 2-
-744,sozialen Medien wie Twitter,Negative,1015254115176407040,Schade
-745,Text,Positive,1015254115176407040,ist gut
-746,Insa Wilke,Positive,1015254115176407040,"gut begründet,Note:2"
-747,Text,Positive,1015254115176407040,ist gut
-748,Stefan Gmünder,Positive,1015255250612170753,Note: 2-
-749,Kritiken,Positive,1015255250612170753,Retadierende Momente
-750,Hubert Winkels,Negative,1015255250612170753,Klingt komisch
-751,Hubert Winkels,Positive,1015255250612170753,"zeigst du Talent,Note: 3+"
-752,Hildegard Keller,Positive,1015256442528509953,Note: 2
-753,Sound des Textes,Positive,1015256442528509953,gut
-754,Kritik,Positive,1015256442528509953,gut
-755,Kritik,Negative,1015256442528509953,Vielleicht die eigene Kritik etwas zu Herzen nehmen
-756,Michael Wiederstein,Positive,1015256442528509953,Note:3-
-757,Kritik,Positive,1015256442528509953,gut
-758,Kritik,Negative,1015256442528509953,Vielleicht die eigene Kritik etwas zu Herzen nehmen
-759,Nora Gomringer,Positive,1015258255487008768,Note: 3+
-760,Sagst du auch bitches und hoes,Negative,1015258255487008768,mich zu provozieren
-761,Klaus Kastberger,Positive,1015282585298227200,Note: 3+
-762,Meinungen,Positive,1015282585298227200,sonst gute
-763,Insa Wilke,Positive,1015282585298227200,"gut zusammen gefasst,Note 2+"
-764,Literarische Radikalität,Negative,1015282585298227200,fehlt trotzdem
-765,Stefan Gmünder,Positive,1015283372170600448,Note: 2
-766,Kritik,Positive,1015283372170600448,Setzt zu sehr auf Effekte nicht so die
-767,Kritik,Positive,1015283372170600448,Note: 2
-768,Hubert Winkels,Positive,1015283372170600448,"Ansonsten bodenständig,Note: 3"
-769,Freud,Negative,1015283372170600448,schon in der Wissenschaft veraltet und überholt
-770,Hildegard Keller,Positive,1015284087479730176,"Die Kollegen stimmen teilweise zu,Note: 3"
-771,Kritik,Positive,1015284087479730176,gute
-772,Kritik,Positive,1015284087479730176,Wunderbare
-773,Michael Wiederstein,Positive,1015284087479730176,Note: 2-
-774,Kritik,Positive,1015284087479730176,gute
-775,Kritik,Positive,1015284087479730176,Wunderbare
-776,Nora Gomringer,Positive,1015284689144295424,"Ein interessanter Gedanke,Note: 2-"
-777,Lesung von @bov,Positive,1015309436821352448,"wenn der Text nicht gewinnt dann nur, weil er vom ersten Satz an im Orbit kreist"
-778,Text,Positive,1015309436821352448,"wenn der Text nicht gewinnt dann nur, weil er vom ersten Satz an im Orbit kreist"
-779,Den Text hören,Positive,1015310379356950528,eins
-780,Text,Positive,1015310379356950528,eins
-781,Stimme,Positive,1015310379356950528,eins
-782,Klang,Positive,1015310379356950528,eins
-783,beschriebenen Orte,Positive,1015310379356950528,eins
-784,Feridun Zaimoglu,Positive,1014770273671942144,Mit starken Worten
-785,Lesung,Positive,1015333581193928707,bewegende
-786,Lesung,Positive,1015333581193928707,ansehen!
-787,Lesung,Positive,1015333581193928707,Wir gratulieren!
-788,Autors #AnselmNeft,Positive,1015333581193928707,bewegende
-789,Autors #AnselmNeft,Positive,1015333581193928707,Wir gratulieren!
-790,Insa Wilke,Positive,1015338024115359744,Note: 2-
-791,Bilder,Negative,1015338024115359744,schiefe
-792,Hubert Winkels,Positive,1015338846463168512,Note: 2
-793,Kritik,Positive,1015338846463168512,wie ein Sherlock Holmes der Logikfehler
-794,Kritik,Positive,1015338846463168512,Note: 2
-795,Sherlock Holmes,Positive,1015338846463168512,wie ein Sherlock Holmes der Logikfehler
-796,Hildegard Keller,Positive,1015338846463168512,Note: 2
-797,Feedback an Autorin,Positive,1015338846463168512,schönes
-798,Feedback an Autorin,Positive,1015338846463168512,Note: 2
-799,Performance,Positive,1015338846463168512,Lob für
-800,Text,Positive,1015339631884361728,top gelesen
-801,gelesen,Positive,1015339631884361728,top
-802,Sprache,Positive,1015339631884361728,schöne
-803,Michael Wiederstein,Positive,1015340309323100160,"Du brennst für den Text,das ist schön mitzuerleben,Note: 2+"
-804,Text,Positive,1015340309323100160,lebt & hat Organe!
-805,Text,Positive,1015340309323100160,brennst für
-806,Text,Positive,1015340309323100160,lebt & hat Organe!
-807,Text,Positive,1015340309323100160,brennst für
-808,Nora Gomringer,Positive,1015340309323100160,Note 2-
-809,Lesung,Positive,1015340309323100160,"Beklemmend tolle,!"
-810,ohne Bart,Negative,1015509303682363394,Kognitive Dissonanz
-811,Leseduktus,Positive,1015509465444093952,Interessanter
-812,Lesung,Negative,1015515641430859776,zumindest auch ein weiterer Beitrag für unser Ekel-Thema
-813,von professionellen Vorlesenden gelesen werden,Negative,1015528451175043072,"manchmal wäre es wirklich gut, wenn die Texte von professionellen Vorlesenden gelesen werden"
-814,"googeln, zwei Mediengeräte",Positive,1015533474365820928,reichen doch
-815,Lesung von Özlem Özgül Dündar,Positive,1015552128847368192,Herzklopfen und Beklemmnis
-816,Text ausschließlich kleingeschrieben und ohne Interpunktionen,Negative,1015552128847368192,Schade
-817,Text,Positive,1015552985873690624,"Beeindruckender,sogar gelohnt"
-818,Vortrag,Positive,1015552985873690624,"berührender,sogar gelohnt"
-819,pausenfüllende Stimmen-Imitation,Negative,1015552985873690624,ertragen
-820,lesung,Negative,1015562227942903808,in u-haft genommen
-821,ihn,Negative,1015576143863394304,zwar überladen konstruiert
-822,ihn,Positive,1015576143863394304,geglückte überraschung
-823,für sein alter,Positive,1015576143863394304,geglückte überraschung
-824,Özlem,Positive,1015646627716005888,"für Özlem gestimmt,TeamÖzlem"
-825,Lesung,Positive,1015646627716005888,"sehr schöne,Gratulation!"
-826,gelesen,Positive,1015886907224543232,"Phantastisch,!"
-827,Text,Positive,1015886907224543232,"großartig surreal-dadaistischer,!"
-828,den Herrn Magister,Positive,1015886907224543232,"Hauptpreis für,!"
-829,Raphaela Edelbauer da vorliest,Positive,1014785883952820225,"Erinnert mich ein wenig an Georg Kleins Miakro,gefällt mir erstaunlich gut"
+,Aspect,Trigger,Polarity,TweetID
+0,Das Setting,erinnert ein bisschen an @hartaberfair,Positive,1014812423205916672
+1,das Publikum läuft herrlich anarchisch durch das Livebild,herrlich anarchisch,Positive,1014812423205916672
+2,Figuren im Text,peinlich berührtes Husten im Publikum,Negative,1014814182280171521
+3,Figuren im Text schlafen miteinander,peinlich berührtes Husten im Publikum,Negative,1014814182280171521
+4,Husten im Publikum,peinlich berührtes,Negative,1014814182280171521
+5,lustig flottierende Publikum,"Sehr gut gefällt uns,lustig flottierende",Positive,1014825100921720832
+6,"Publikum gefällt: Sonnenbrille, Sommerhut",gefällt,Positive,1014845016794193920
+7,"Publikum gefällt: Sonnenbrille, Sommerhut, viel Fächern mit 3sat-Fächern",gefällt,Positive,1014845016794193920
+8,"Ähnliches erlebt, wie im Text beschrieben",90% der Zuhörer im Studio haben sicher Ähnliches erlebt,Positive,1014857863615991808
+9,Zusammenschnitt des Vortrags,Das Studiopublikum lacht,Positive,1015145143278718976
+10,Husten im Publikum,Entgeistertes,Negative,1015150130134179841
+11,tddl,Eigentlich hätte eine ganze Reihe Publikum aufspringen und rufen müssen.,Negative,1015160116243521536
+12,klopfjazz,klopfjazz,Negative,1015164880033320960
+13,Rede Zaimoglus,Langer Applaus,Positive,1014600924126425088
+14,worum es geht,Nett. Nicht mehr.,Positive,1015181254889787392
+15,worum es geht,"Publikum ist aber dankbar, weil man verstanden hat worum es geht",Positive,1015181254889787392
+16,Text von Tanja Maljartschuk,Ein ungewohnt gegenständlicher und einfach zu erfassender,Positive,1015181371101401088
+17,Text von Tanja Maljartschuk,Größter und längster Applaus am Schluss,Positive,1015181371101401088
+18,Tanja Maljartschuk,Ein ungewohnt gegenständlicher und einfach zu erfassender,Positive,1015181371101401088
+19,Tanja Maljartschuk,Größter und längster Applaus am Schluss,Positive,1015181371101401088
+20,Geschichte,schöne,Positive,1015181371101401088
+21,Applaus,"Oh, mein Gott. So viel",Positive,1015181409290514433
+22,Maljartschuk,So viel Applaus,Positive,1015181409290514433
+23,Literatur,"Langer Applaus!,Endlich Literatur",Positive,1015181467759136768
+24,klassisch erzählte Geschichte,"Kollektives Aufatmen,Endlich mal",Positive,1015181731803095041
+25,manche im Publikum sehen aus wie ich,Scheiße,Negative,1015213981869445121
+26,Herr Neft,kriegt Herr Neft den Publikumspreis,Positive,1015217572126580736
+27,Applaus,"tosender Applaus,gebührend",Positive,1015218264371326976
+28,Show,sehr dichte,Positive,1015218264371326976
+29,gelesen,toll,Positive,1015218264371326976
+30,Flashbacks,etwas kompliziert,Negative,1015218264371326976
+31,Lacher im Studio,Süßer,Positive,1015511946228043776
+32,Publikum ist extrem fokussiert,extrem fokussiert,Positive,1014782342118944768
+33,wenn jemand umkippt,bitte immer mit lustigem jazz ablenken,Positive,1015512616515571712
+34,jazz,lustigem,Positive,1015512616515571712
+35,Musik,super angemessen...,Positive,1015512614447800320
+36,performance,"kranke,erinnert an goetz",Negative,1015512750020276224
+37,Jazzmusik,"sprudelnd leichte,hat eine gewisse Komik. Leider.",Positive,1015512880584822784
+38,die Dame,Schnelle Besserung,Positive,1015513222030548992
+39,Publikum,Kleines Kreislaufproblem,Negative,1015513255270371329
+40,Publikum,aber alles gut!,Positive,1015513255270371329
+41,der Dame,Hoffentlich geht es der Dame bald besser...,Positive,1015513755898261504
+42,1te Lesung des Tages,ich kann mir schon die unterschiedlichen Kritiken vorstellen,Negative,1015515551811166208
+43,Jakob Nolte,ich kann mir schon die unterschiedlichen Kritiken vorstellen,Negative,1015515551811166208
+44,Person aus dem Publikum,"Hoffe aber, dass es der Person aus dem Publikum gut geht",Positive,1015515551811166208
+45,KlausKastberger: Ich möchte noch was zum Kokain sagen.,Publikum lacht,Positive,1015522141415067649
+46,Ich möchte noch was zum Kokain sagen.,Publikum lacht,Positive,1015522141415067649
+47,mit dem Publikum mitgeklatscht,bahahaha,Positive,1015523549120008192
+48,mit rosa Rundumbrillenbügel im Publikum sitzen,Man sollte nicht,Negative,1014787138163036160
+49,geäusserten weisheiten,weisheiten,Positive,1015529764118032386
+50,Hildegard Keller,Hat Hildegard Keller einen anderen Vortrag als das TV-Publikum gehört?,Negative,1015532195157553153
+51,"Ein trauriger Clown, der auf unsere Welt schaut",?,Negative,1015532195157553153
+52,Bachmannpreis im Lendhafen 2018,"Schön war es!,Wir freuen uns jetzt schon wieder",Positive,1016260498470391808
+53,"Mitwirkenden, die Ermöglicher*innen",Danke,Positive,1016260498470391808
+54,Publikum,Danke,Positive,1016260498470391808
+55,Preisträger*innen,Gratulation an die,Positive,1016260498470391808
+56,Preisträger*innen,Gratulation an die,Positive,1016260498470391808
+57,Publikum,Spannend.,Positive,1023618645526753280
+58,über #tddl18,Spannend.,Positive,1023618645526753280
+59,eine der AutorInen,Spannend.,Positive,1023618645526753280
+60,raphiedel,"Danke,und Gratulation fürs teilen <3",Positive,1023618645526753280
+61,@KlausKastberger den Text hochgelobt hat,Applaus,Positive,1014794624081256450
+62,Text,hochgelobt,Positive,1014794624081256450
+63,"das Publikum scheint nicht ganz sicher, ob es darüber lachen darf",scheint nicht ganz sicher,Negative,1014795320385994753
+64,"das Publikum scheint nicht ganz sicher, ob es darüber lachen darf",darf es,Positive,1014795320385994753
+65,alle männer sind auffüllungstechniker,lässt das publikum hier kollektiv in liebe zu nora gomringer fallen,Positive,1014795448509452289
+66,nora gomringer,lässt das publikum hier kollektiv in liebe zu nora gomringer fallen,Positive,1014795448509452289
+67,Das Publikum klatscht wieder,"Ob es auch daran liegt, dass es die einzige Autorin aus Österreich ist?",Negative,1014797444838821888
+68,Text,der dem Publikum sicher gut gefällt,Positive,1014805157845102592
+69,Livestream,hängt,Negative,1144156517219950592
+70,Pointen,werden vorweggenommen,Negative,1144156517219950592
+71,Text,Von wegen,Negative,1144156593958924288
+72,spekulativem Roman,"überlege ich krampfhaft,was wohl",Negative,1144156593958924288
+73,"Publikum, zuhören, nicht aufs Blatt starren",nicht aufs Blatt starren,Negative,1144156647549526017
+74,Die. Lesen. Ja. Immer. Als. Sei. Zwischen. Jedem. Wort. Ein. Punkt.,Die. Lesen. Ja. Immer. Als. Sei. Zwischen. Jedem. Wort. Ein. Punkt.,Negative,1144156691577155584
+75,"Person im Publikum sieht aus, als ob sie schläft","sieht aus, als ob sie schläft,Fühl ich,Fühl ich sehr",Negative,1144156776591437825
+76,tddl,Hah!,Positive,1144156780131422208
+77,Liest,"Aua,wie befürchtet",Negative,1144156780081111040
+78,Pausen,unötigen kleinen verzögernden,Negative,1144156780081111040
+79,Wörter,nicht wichtiger machen,Negative,1144156780081111040
+80,Perspektivschneise im Text,Perspektivschneise,Positive,1144156969063845890
+81,tddl,Wann liest Kochi,Positive,1144124909926387712
+82,https://twitter.com/kochkunstRecook/status/1144123200307118081,Wann liest Kochi,Positive,1144124909926387712
+83,Lippen kucken #tddl #Schultens,Muss immer,Negative,1144157093534060544
+84,Perspektivschneise,Perspektivschneise,Positive,1144157139428155395
+85,TDDL-Texten,Unart,Negative,1144157162316423173
+86,Namen,Komplexität durch die Einführung von zwölftausend Namen erzielen zu wollen.,Negative,1144157162316423173
+87,"dass Burkhard Spinnen nicht mehr in der Jury ist. Er würde gleich erklären, dass er auch mal in der Ukraine war.",Schade,Negative,1144157185808764928
+88,geht es jetzt auch bei #tddl um Vielehe,jetzt auch,Negative,1144157253513220096
+89,Was ist eine Emilia?,"gute Fragen,kleiner feiner Trick mit dem ein",Positive,1144157258655457280
+90,hören,"Vögel sind besser zu hören als sie,jetzt noch nen Rasenmäher,jetzt kein Text zum mitlesen,verstehe gar nichts",Negative,1144157280570621952
+91,Text zum mitlesen,jetzt kein Text zum mitlesen,Negative,1144157280570621952
+92,Trend spekulative Waldprosa,Trend,Positive,1144157289441615872
+93,kameraführung,"ich mag,nah und doch so fern",Positive,1144157360669306881
+94,Verwendung des Wortes Puschelpelz,Pluspunkt,Positive,1144157477405171712
+95,Puschelpelz und Hühnerkacke. Das bleibt hängen von der ersten Lesung,"Das bleibt hängen von der ersten Lesung, glaube ich.",Positive,1144157523576012801
+96,ersten Lesung,"Das bleibt hängen von der ersten Lesung, glaube ich.",Positive,1144157523576012801
+97,mAria,"warum,?",Negative,1144157758138257409
+98,Puschelpelz in der Sonne,<3,Positive,1144157771891445760
+99,Puschel und Hühnerkacke,kommt auch mein Hirn nicht vorbei,Negative,1144157771891445760
+100,balkone,"irgendwie südländisch,moijn",Positive,1144130036380962817
+101,Text,von der Art »Wir haben noch keinen Preisträger gehört,Negative,1144157782985363461
+102,Sie ist eine von fünf Menschen ohne Schwanz im Raum.,Wurde kurz wach... und gleich nochmal...,Positive,1144157897309532160
+103,Text,vielleicht witziger als er scheint,Positive,1144157897309532160
+104,Katharina Schultens,sehr gute Lyrikerin,Positive,1144157966297370624
+105,Stil,gut in Prosa übertragen lassen,Positive,1144157966297370624
+106,stilistisch,das hier ist nichts,Negative,1144157966297370624
+107,Text,relativ banal vorwärts geschoben,Negative,1144157966297370624
+108,Alle hören sehr genau zu.,Nein. Ich habe damit schon aufgehört.,Negative,1144157981501792256
+109,Nervtext,Schwurbeliger Nervtext,Negative,1144157981501792256
+110,tddl,finde ich auch sehr beeindruckend,Positive,1144158000573243392
+111,das,wieder eskaliert,Negative,1144158056005197824
+112,Autor*innen,"nicht bloßzustellen,nicht lächerlich zu machen",Positive,1144158056005197824
+113,zynischen Kommentare,zynischen,Negative,1144158056005197824
+114,Jury,Ich werde meine zynischen Kommentare voll auf die Jury kanalisieren heute,Negative,1144158056005197824
+115,nach unten treten,nach unten treten ist eher so mäh,Negative,1144158056005197824
+116,Text,"Wahrscheinlich das Beste, was man damit machen kann.",Positive,1144158097180692482
+117,Spekulativer Roman mit ganz viel Schwanz,Spekulativer Roman mit ganz viel Schwanz,Positive,1144158135252393984
+118,Starterin,"Interessante,jetzt schhhhhht - zuhören!!!",Positive,1144158192634597376
+119,Photo,Großartiges,Positive,1144131695072952322
+120,Bildunterschrift,großartige,Positive,1144131695072952322
+121,Sätze,Gute,Positive,1144158227506114562
+122,Sätze,guten,Positive,1144158227506114562
+123,Valium-Lesetempo hört,"Valium-Lesetempo,irgendwie erschließt sich mir nicht, wie die guten Sätze zusammengehören.",Negative,1144158227506114562
+124,Sätze,Gute,Positive,1144158227506114562
+125,Sätze,guten,Positive,1144158227506114562
+126,Schultens-Text,"als hätte sie versucht, ein Aichinger-Gedicht in einen Roman zu übersetzen",Negative,1144158553822892032
+127,Schultens-Text,"sehr viele Namen eingebaut, weil in Romane ja viele Leute vorkommen",Negative,1144158553822892032
+128,Namen,"sehr viele Namen eingebaut, weil in Romane ja viele Leute vorkommen",Negative,1144158553822892032
+129,Der Text wird von der Autorin leider etwas ins Lethargische gelesen,leider etwas ins Lethargische,Negative,1144158630167678977
+130,buchmannpreis,endlich wieder,Positive,1144158696978731009
+131,Feministisches Kyrie eleison,Feministisches Kyrie eleison,Positive,1144158716067033088
+132,Literaturlaub,"So wird das nix,:(",Negative,1144158754994307072
+133,"ihre Wörter, ihre Sätze","Ich mag,Vielleicht möchte ich ihre Lyrik nochmal sehen",Positive,1144158861177364480
+134,Bachmannpreis,Unverkennbar,Positive,1144158912175845376
+135,kollektive Publikum-blättert-um-Geräusch,Unverkennbar,Positive,1144158912175845376
+136,Video,furchtbar,Negative,1144158939308789761
+137,Text,nervt,Negative,1144158939308789761
+138,Text,"Erstaunlich,wenn man ihn liest, wird er besser",Positive,1144158939308789761
+139,beim Zuhören,nervt,Negative,1144158939308789761
+140,eine Bildergalerie der zuhörender Klagenfurter Schüler,Ich wünsche mir,Positive,1144159041972842496
+141,einstieg von katharina schultens,doch mal ein einstieg,Positive,1144159040181854208
+142,einstieg von katharina schultens,erinnert mich an den report der magd,Positive,1144159040181854208
+143,einstieg von katharina schultens,okay marginal,Negative,1144159040181854208
+144,erinnert mich an den report der magd,doch mal ein einstieg,Positive,1144159040181854208
+145,erinnert mich an den report der magd,okay marginal,Negative,1144159040181854208
+146,tddl,"Krampfhaft,melodramatisch",Negative,1144159114647527425
+147,tddl,"sachlich,nüchtern",Positive,1144159114647527425
+148,Text,"Ich sehe durchaus, was sie mit dem Text versucht",Positive,1144159216426455040
+149,sprachlich,aber leider ist das sprachlich nicht konsequent umgesetzt,Negative,1144159216426455040
+150,#tddl-Twitterer,geil,Positive,1144159328909385729
+151,"#tddl-Twitterer auf einmal bekannten, bei den Worten Schwanz und Hühnerkacke aufgemerkt zu haben",geil,Positive,1144159328909385729
+152,Sätze im Text,"grandios verhauende,Hat das denn vorher keiner lektoriert?",Negative,1144159541745131521
+153,Er,"Zeilenauf und -ab ein großes Hey!,noch nichts veröffentlicht,keine Stipendien oder Preise erhalten,#gehtdas",Negative,1144132915099516929
+154,Teilnahmeparagräphchen,#gehtdas,Negative,1144132915099516929
+155,Text ist sprachlich,"Das passiert bei Schultens nicht,sprachlich ärmer als ihre Lyrik,Überhaupt",Negative,1144159570954248192
+156,keinen Anschluss,"nach Std endlich,finde keinen Anschluss,jetzt schon massiv genervt",Negative,1144159659227516928
+157,Jurydiskussion,"Hoffentlich,nicht",Negative,1144159675333713920
+158,tddl,belohnt zur rechten Zeit,Positive,1144159745311424514
+159,Klagenfurt,Gute,Positive,1144159754362728448
+160,Text wie von #Schultens,getrost ignorieren kann,Negative,1144159754362728448
+161,lobende Rezensionen von #Wilke,getrost ignorieren kann,Negative,1144159754362728448
+162,tddl,Bin aber gar nicht drin,Negative,1144159767914586112
+163,Favs,Favs,Positive,1144159767914586112
+164,Theater,"ich hätte großen Spaß, bei dem Theater mitzumachen.",Positive,1144159773895606272
+165,Theater,Theater,Negative,1144159773895606272
+166,tddl,"ich hätte großen Spaß, bei dem Theater mitzumachen.",Positive,1144159773895606272
+167,Habe metadicke Pflanzen verstanden,mich kurz ein wenig gefreut,Positive,1144159850810753024
+168,Tom Kummer,Ist Tom Kummer eigentlich ein Kayfabe-Experte?,Positive,1144133127620763648
+169,tddl,verstehe den Zusammenhang nicht,Negative,1144160001545711616
+170,https://twitter.com/Wolfseule/status/1144159773895606272,verstehe den Zusammenhang nicht,Negative,1144160001545711616
+171,tddl,"niemand hat mich eingeladen,eigentlich sollte mich beides nicht wundern",Negative,1144160066414796800
+172,"Menschen, die sich in Pflanzen verwandeln",anderswo schon deutlicher beschrieben gelesen,Negative,1144160083389140993
+173,Raunen,zuviel,Negative,1144160083389140993
+174,Zusammenhang,zuwenig,Negative,1144160083389140993
+175,einzelne Bilder,schön,Positive,1144160083389140993
+176,Gesamtbild,kein,Negative,1144160083389140993
+177,#tddl-Hashtag verfolgt,zum letzten Mal in meinem Leben,Negative,1144160125973925888
+178,https://twitter.com/Frank__Hornung/status/1144158640158519296,zum letzten Mal in meinem Leben,Negative,1144160125973925888
+179,Handlung,komplizierte,Positive,1144160133309784064
+180,sprachlichen Gerippe,"einfach so dahinplätschern,nervig",Negative,1144160133309784064
+181,inneren Stimme,müde aufgesetzten,Negative,1144160133309784064
+182,Text,"Leider,als ob er gern mal Lyrik geworden wäre",Negative,1144160218609328128
+183,Rede von Clemens J. Setz zur tddl-Eröffnung,Tolle,Positive,1144160247025754112
+184,Text Das Bein,großartig,Positive,1144160260170665984
+185,Vater-Sohn Sterbegeschichte,großartig,Positive,1144160260170665984
+186,Kein Erinnern ohne An.,"Nein.,Kein",Negative,1144160274943029248
+187,Katharina Schultens liest einen Text,"ich freue mich, dass ihn nun die ganze Welt hören wird",Positive,1144133352334774273
+188,Text,"ich freue mich, dass ihn nun die ganze Welt hören wird",Positive,1144133352334774273
+189,Überalterung im Publikum,Lösung gegen Überalterung im Publikum,Positive,1144160314553982977
+190,15-jährigen,unter androhung von red dead redemption 2 verbot,Negative,1144160314553982977
+191,"Texte, die sich besser vorlesen/hören lassen",sich besser vorlesen/hören lassen,Positive,1144160396099706880
+192,Ally Kleins Text,zum Vorlesen/Zuhören hervorragend,Positive,1144160396099706880
+193,zum Vorlesen/Zuhören,hervorragend,Positive,1144160396099706880
+194,gelesen,gut,Positive,1144160396099706880
+195,Andere,"viel zu dicht, um sie beim Zuhören gut zu erfassen",Negative,1144160396099706880
+196,dicht,"viel zu dicht, um sie beim Zuhören gut zu erfassen",Negative,1144160396099706880
+197,tddl,ist mir gerade echt zu nervig nach 2 Std Schlaf,Negative,1144160422364352512
+198,tddl,"Recht haben,gefällt mir",Positive,1144160425388494848
+199,Künftige Welt - radikal gedacht.,radikal gedacht,Positive,1144160468786982912
+200,Brutal und poetisch,Brutal und poetisch zugleich,Positive,1144160468786982912
+201,Text,packt mich nicht,Negative,1144160496486113280
+202,Lippenstift,jedoch perfekt auf die Farbe des Logos abgestimmt,Positive,1144160496486113280
+203,tddl,"funktioniert nur so halb (also nicht),höre so jeden 2. satz,grenzen zwischen dem text und der inventur verschwimmen,naja",Negative,1144160625020559360
+204,synchron umblättern,"schönste choreografie,detlef d soost ist stolz",Positive,1144160657178341377
+205,literatur,wieder sexy,Positive,1144160657178341377
+206,am Lesen,"ahh,am Lesen merkt man wo man sich beim Text wieder konzentrieren soll",Positive,1144160755664805888
+207,Furchetwitterrad,Mir bleibt,Positive,1144133399663271937
+208,Schultens,gute Lyrikerin,Positive,1144160767119417344
+209,"hatte das Kind endlich angefangen zu singen, mit einer hellen, zitternden Stimme","nicht verstehe,nie,durchgehen lassen ohne dass es vom Text irgendwie aufgefangen wird,Und hier - alles voller Sätze wie der.",Negative,1144160767119417344
+210,Frauenpower,Frauenpower,Positive,1144160949718462469
+211,auf #tddl Tweets geiern,lieber,Positive,1144161013023072256
+212,auf #tddl Tweets geiern,lieber,Positive,1144161013023072256
+213,"»Das Summen hatte keinen Anfang, es war einfach da.«",tinitus,Negative,1144161049953951744
+214,buchmannpreis,langweilig,Negative,1144161058145361920
+215,buchmannpreis,bissi schöner,Positive,1144161058145361920
+216,Wer wünscht sich nach dem Schultens-Text keine eigene Chimäre?,"Wer wünscht sich,keine",Positive,1144161168635944965
+217,Bühnendeko,neue und noch hässlichere,Negative,1144161276786040832
+218,tddl,geht es irgendwie bergab,Negative,1144161276786040832
+219,zwischenhuster,adlips der literatur,Positive,1144161286386835456
+220,eröffnungsrede,findet wahre sätze,Positive,1144038490637778944
+221,tddl,Bachmannbewerb für PolitikerInnen,Positive,1144136020373454848
+222,meinen Vorschlag,erneuere ich gerne,Positive,1144137583405993986
+223,https://twitter.com/diefurche/status/1133484947765907456,erneuere ich gerne,Positive,1144137583405993986
+224,Tom Kummer sagt er macht Gonzo,in Wirklichkeit ist das alles nur #kayfabe,Negative,1144138476125859840
+225,tddl zu streamen,heimlich #tddl zu streamen,Positive,1144138890657374208
+226,tddl,nicht Schlachtenbummeln,Negative,1144139701823168512
+227,Kritik der Kritik,Heiß wirds heute,Positive,1144142415391002624
+228,Es geht wieder los!,Es geht wieder los!,Positive,1144145304096256001
+229,tddl,alle #tddl schauen,Positive,1144145537375100928
+230,standseilbahn,die Daumen drücken !,Positive,1144145537375100928
+231,Die lächerliche Kayfabe der Dichteridentität habe ich selbst besonders hündisch befolgt in meinen jungen Jahren.,Interessant wäre es gewesen,Negative,1144145605654130688
+232,tddl,Heute!,Positive,1144146362600214529
+233,tddl,"Das Vertrauen der Veranstalter,scheint nicht besonders groß zu sein",Negative,1144148025348100096
+234,tddl,Müßte mich noch warmlästern.,Negative,1144148183473426433
+235,standseilbahn,Fankurve,Positive,1144148483726807040
+236,tddl,es kann losgehen,Positive,1144148483726807040
+237,"die, die immer fragen","wens nicht interessiert,schaut halt weg,ich kommentier ja auch nicht euren Fußballscheiß",Negative,1144148654569205760
+238,klimatisiert,Macht mal weniger bedruckte Liegesessel,Negative,1144047126403588096
+239,kühler,kühler wirds nie wieder,Negative,1144047126403588096
+240,Clemens Setz' https://bachmannpreis.orf.at/stories/2987078/,"grandios,selten so viel mir neues aus einem Text gezogen",Positive,1144150327521939457
+241,ankowitsch,"Ich hoff, man sieht sich dann später noch auf eine Schaumrolle bei der Bürgermeisterin",Positive,1144150547152478212
+242,Ich-Bin-Autor-Videos,Noch viel schlimmer,Negative,1144150832138637313
+243,Ich-Bin-Autor-Videos,bierernsten,Negative,1144150832138637313
+244,"Versuche, das Format Vorstellungsvideo zu ironisieren",Noch viel schlimmer,Negative,1144150832138637313
+245,Es kann losgehen #tddl,Es kann losgehen,Positive,1144151736115978240
+246,Bachmannwettbewerb,"Es ist wieder,!",Positive,1144151858874855424
+247,zeitgenössischen österreichischen Literatur,Maskottchen,Positive,1144152403928920064
+248,Es beginnt in 5 Minuten der erste Lesetag,"Guten Morgen!,herzliches Willkommen",Positive,1144152438087323649
+249,WLAN,Das WLAN hält,Positive,1144152773946171392
+250,tddl,"stressig,auch anderes zu tun,Stress pur",Negative,1144048611292045313
+251,tddl,"will ich alles verfolgen,",Positive,1144048611292045313
+252,Bachmannwettbewerb,"again!,Yeah",Positive,1144152946088775680
+253,"erste Lesende, Katharina Schultens, hat also auch in St. Louis studiert.",ja schon eine richtige Mafia.,Negative,1144153084563742720
+254,tddl,"kein fächer,!!!,wie konnte das???",Negative,1144153162628108289
+255,Frau Keller hat die alle weggefächert.,hat die alle weggefächert,Positive,1144153774216351744
+256,WLAN,so gut,Positive,1144153851626446848
+257,WLAN,"Cool, danke!,:)",Positive,1144153851626446848
+258,tddl,dass ich #tddl schauen kann,Positive,1144153851626446848
+259,Intro,Um Gottes willen,Negative,1144153943272054784
+260,Musik,Um Gottes willen,Negative,1144153943272054784
+261,Musik,frecher,Negative,1144153943272054784
+262,Lesungen,interessanteste,Positive,1144048775541002246
+263,Kolportage,"Die Realität übertrifft inzwischen jede Kolportage,Kolportage",Negative,1144154077548466176
+264,Videoporträts,Alles schon mal dagewesen,Negative,1144154254107656194
+265,Geht los! #tddl,So! Geht los!,Positive,1144154271711191040
+266,Es geht loooooos #tddl,Es geht loooooos,Positive,1144154452758269952
+267,Sobald ich Ankowitsch höre,habe ich imaginäre Gummibänder im Mund und kann österreichisch,Positive,1144154475931799553
+268,österreichisch,habe ich imaginäre Gummibänder im Mund und kann österreichisch,Positive,1144154475931799553
+269,Bachmannpreis,nicht für den Bachmannpreis interessieren,Negative,1144154627249717248
+270,#tddl muten,"mögen bitte,:)",Positive,1144154627249717248
+271,Lesen! Lesen! Lesen! Lesen!,Lesen! Lesen! Lesen! Lesen!,Positive,1144154664268697601
+272,Lesen! Lesen! Lesen! Lesen!,Lesen! Lesen! Lesen! Lesen!,Positive,1144154664268697601
+273,tddl,Lesen! Lesen! Lesen! Lesen!,Positive,1144154664268697601
+274,acmetheater on Twitter,Top story,Positive,1144064077196607488
+275,acmetheater on Twitter: die #tddl sind dope! ,Top story,Positive,1144064077196607488
+276,tddl,dope!,Positive,1144064077196607488
+277,https://twitter.com/theateracme/status/1143604347831541767,Top story,Positive,1144064077196607488
+278,Kann losgehen,ich wäre dann soweit,Positive,1144154661940867072
+279,Outfit,Antifa schreit,Negative,1144154789430910976
+280,tddl,alle jahre wieder! I #tddl,Positive,1144154801556590592
+281,tddl,Zeit für #tddl,Positive,1144154826873495554
+282,tddl,Getting ready for #tddl,Positive,1144154860021063681
+283,Favorit,Mein Favorit ist ja wieder Bob Dylan.,Positive,1144116881596571648
+284,Internet-Applaus,fulminanten Internet-Applaus,Positive,1144155329317560320
+285,Teilnehmerinnen und Teilnehmer,fulminanten Internet-Applaus,Positive,1144155329317560320
+286,neue sitzordnung,"uups,bringt meine orientierung durcheinander",Negative,1144155528412745729
+287,Christian Ankowitsch,"grösste Problem,dass er nicht Ernst A. Grandits ist,nichtmal ein Mittelinitial",Negative,1144155544397254657
+288,Literatur,"ich hoffe sehr,das überdröhnen kann!",Positive,1144155569667923968
+289,tddl,"ich hab frei,\o/",Positive,1144155587011383296
+290,Lesungen,bin schon sehr gespannt auf,Positive,1144155591218253824
+291,Videoporträt,"Hoffentlich,nicht mit derselben Intonation",Negative,1144155936552103939
+292,gomringernora,ich schwenke Pompoms,Positive,1144155997457584133
+293,ihrem Text,"umgehauen hat,Mit dem sie dann auch den Bachmannpreis gewann",Positive,1144155997457584133
+294,sie in der Jury,ich schwenke Pompoms,Positive,1144155997457584133
+295,Autorenproträt,aus der Reihe »Auch egal.«,Negative,1144156017229475840
+296,Videoportraits,"wieder kein Gott, der einem vor diesen überflüssigen Videoportraits beschützt",Negative,1144156081305915393
+297,Videoportraits,überflüssigen,Negative,1144156081305915393
+298,Videoportraits,"tatsächlich sehr erleichternd,Schock nicht mehr so groß",Positive,1144156148532219905
+299,Videoportrait,ich verdrehe schon sehr stark die Augen,Negative,1144156178697637888
+300,Videoportrait,Guter Start!,Positive,1144156178697637888
+301,Video-Portrait,leider ein vollumfänglicher Abtörner,Negative,1144156287095267328
+302,Videoportär,schon hasse ich,Negative,1144156318737031168
+303,Text,schon hasse ich,Negative,1144156318737031168
+304,Stimme,Unerträglich affektierte,Negative,1144156364341731328
+305,tddl,bishhhhhhhhhh,Positive,1144123477542285312
+306,tddlKanon,Danke an alle,Positive,1144955595281317888
+307,"Jury, die ihre Referenzen nannte und offenlegte",Danke an alle,Positive,1144955595281317888
+308,Othmann,meine Favoritin,Positive,1144956659921543168
+309,Literatur,Axt und Eismeer,Positive,1144956954604912640
+310,Text,hat mich umgehackt,Positive,1144956954604912640
+311,Jury mit ihrer Deutung,auf dem falschen Dampfer,Negative,1144961305167769600
+312,Birnbacher,Bin sehr für,Positive,1144961637495033857
+313,Schultens,Bin sehr für,Positive,1144961637495033857
+314,"Klar darf man das literarisch bearbeiten, man muss es aber besonders gut machen.",man muss es aber besonders gut machen,Negative,1144940710547906560
+315,tddl -Samstag,Schlecht,Negative,1144962349482352640
+316,tddl -Samstag,Gut,Positive,1144962349482352640
+317,"Hubert steht an der Drau und sucht die Furt, um ohne Klagen das Weite zu suchen.","sucht die Furt, um ohne Klagen das Weite zu suchen.",Positive,1144963940105035776
+318,tddl,Das wär schön.,Positive,1144964729158492160
+319,Bilder auf Instagram,Auch keine,Negative,1144965891886596101
+320,#tddl-Tweets,schon gelesen,Positive,1144965891886596101
+321,so heiß,"Ach, wie gut, mir ist so heiß",Positive,1144966327901335553
+322,Bachmann Prize,anyone interested in,Positive,1144967118527578112
+323,https://twitter.com/sibaerisch/status/1144942859205914624,one-stop shop,Positive,1144967118527578112
+324,Text,mag,Positive,1144940783906230272
+325,Gomringer hat auch den sehr dubiosen Text von Silvia Tschui eingeladen,aber Gomringer hat auch den sehr dubiosen Text von Silvia Tschui eingeladen,Negative,1144940783906230272
+326,Text von Silvia Tschui,sehr dubiosen,Negative,1144940783906230272
+327,weiterführender Link,"Wooo?,Hier ist kein weiterführender Link zu finden,Bin blind oder da fehlt was",Negative,1144969945819885569
+328,technische Probleme,technische Probleme,Negative,1144973332783214592
+329,Brigit Birnbacher,"besten,nach Preisen sortiert",Positive,1144974942259351552
+330,Ines Birkhan,"Publikumspreis,bittebitte!",Positive,1144974942259351552
+331,er,"dann will ich hier keine Klagen mehr hören, please",Negative,1144978547355934721
+332,tddl,"hach,ilike",Positive,1144978547355934721
+333,Handy,alt,Negative,1144979281849790464
+334,Google,hilft immer!,Positive,1144979281849790464
+335,tipp ich die Adresse ein,"Na gut, für dich",Positive,1144979281849790464
+336,teamjost,teamjost,Positive,1144979281849790464
+337,Kummer,"Besser als Kummer,Definitiv.",Negative,1144979827302313985
+338,Ines Birkhan,"Meine Favoritinnen,Werde entsprechend abstimmen",Positive,1144980325531049984
+339,Banalität des Erzählten,so nicht im Sinn,Negative,1144940801241374720
+340,Gerät,Vielleicht staut es sich zur Zeit,Negative,1144984702853533697
+341,Browser,Vielleicht staut es sich zur Zeit,Negative,1144984702853533697
+342,Link für den Publikumspreis,Bitte danke.,Positive,1144985079694991361
+343,"nur Nora Gomringer weiß, dass es auch nach 1984 viele gute Dystopien gab ...",nur,Positive,1144985429151834113
+344,Nora Gomringer,nur,Positive,1144985429151834113
+345,1984,gute Dystopien,Positive,1144985429151834113
+346,tddl,halt!,Negative,1144985429151834113
+347,Insa Wilke,!,Positive,1144985429151834113
+348,Insa Wilke kennt Ursula K. LeGuin,!,Positive,1144985429151834113
+349,Wutausbruch von Bewerbs-Teilnehmerin Katharina Schultens.,Wutausbruch,Negative,1144985604612116481
+350,"nur Nora Gomringer weiß, dass es auch nach 1984 viele gute Dystopien gab ...",nur,Positive,1144985615043313664
+351,Nora Gomringer,nur,Positive,1144985615043313664
+352,1984,gute Dystopien,Positive,1144985615043313664
+353,tddl,halt!,Negative,1144985615043313664
+354,Insa Wilke,!,Positive,1144985615043313664
+355,Insa Wilke kennt Ursula K. LeGuin,!,Positive,1144985615043313664
+356,Dass Kriege die Menschen verändern,nichts Neues,Negative,1144987110488838145
+357,Dass Kriege die Menschen verändern,"Und doch zeigt Silvia Tschui, das noch längst nicht alles darüber gesagt wurde",Positive,1144987110488838145
+358,Silvia Tschui,"Und doch zeigt Silvia Tschui, das noch längst nicht alles darüber gesagt wurde",Positive,1144987110488838145
+359,wettschwimmen,"zu spät,musste halt wer anders letzte sein",Negative,1144987414005465093
+360,tddl,Das #dsds für Schreiber,Positive,1144987632985935873
+361,auf eurer Website abstimmen,Warum kann ich nicht,Negative,1144988781826756609
+362,abstimmen,Warum kann ich nicht,Negative,1144988781826756609
+363,Abstimmungsverfahren,"unnötig verkomplizierte,erinnert an umständliches Online-Banking,daran werde ich mich nicht beteiligen",Negative,1144988781826756609
+364,Abstimmungsverfahren,"unnötig verkomplizierte,erinnert an umständliches Online-Banking,daran werde ich mich nicht beteiligen",Negative,1144988781826756609
+365,Handy,Außerdem ohne,Negative,1144988781826756609
+366,SMS,keine SMS möglich,Negative,1144988781826756609
+367,tddl,Vorstusslorbeeren,Negative,1144989372313415681
+368,Jury-Knatsch,nochmal richtig,Positive,1144940812972810240
+369,Wettbewerbe wie der #tddl,Was bringen mir als Leser solche,Positive,1144990748342980608
+370,Longlists,"fast besser, nur Bücher zu lesen, die keine Preise gewonnen haben",Negative,1144990748342980608
+371,"Longlists, Shortlists, Fastgewinner, Sieger","fast besser, nur Bücher zu lesen, die keine Preise gewonnen haben",Negative,1144990748342980608
+372,Shortlists,"fast besser, nur Bücher zu lesen, die keine Preise gewonnen haben",Negative,1144990748342980608
+373,Fastgewinner,"fast besser, nur Bücher zu lesen, die keine Preise gewonnen haben",Negative,1144990748342980608
+374,Sieger,in der Kategorie die schönsten Seitenzahlen,Positive,1144990748342980608
+375,Preise,"fast besser, nur Bücher zu lesen, die keine Preise gewonnen haben",Negative,1144990748342980608
+376,Greta Thunberg der Literatur,Ich bin für,Positive,1144991002815582208
+377,Publikumsabstimmungs-Ding,leider ziemlich verkackt,Negative,1144993991261327361
+378,Publikumsabstimmungs-Ding,leider ziemlich verkackt,Negative,1144993991261327361
+379,für den falschen kandiaten bei #tddl gevoted,"für den falschen kandiaten,??",Negative,1144994141031620608
+380,Publikumsabstimmung,nur noch mit Handy möglich,Negative,1144994573053235200
+381,Publikumsabstimmung,Na schönen Dank auch,Positive,1144994573053235200
+382,Handy,nur noch mit Handy möglich,Negative,1144994573053235200
+383,Handy,Na schönen Dank auch,Positive,1144994573053235200
+384,Bei mir hat es geklappt.,geklappt,Positive,1144995440313667584
+385,"Webseite, die für Handy optimiert ist",kwasi Einhandliteratur,Negative,1144995528096342016
+386,Text,sehr guten,Positive,1144998073120284672
+387,Text,sehr guten,Positive,1144998072168189952
+388,Portraitvideo,Der Preis für das bekloppteste,Negative,1144999174888394754
+389,Bachmann-Wettschwimmen,glückliche Gewinner,Positive,1145001610780774400
+390,Männertag,Wie wärs mal mit Nachdenken.,Negative,1145002713152937984
+391,Bühne für einen Literaturpreis,Und wer zum Teufel designed eine Bühne für einen Literaturpreis als White Room?,Negative,1145010738026680320
+392,Birnbacher,Meine Vermutung für die Shortlist 2019,Positive,1145011751232135168
+393,Fischer,Meine Vermutung für die Shortlist 2019,Positive,1145011751232135168
+394,Jost,Meine Vermutung für die Shortlist 2019,Positive,1145011751232135168
+395,Schultens,Meine Vermutung für die Shortlist 2019,Positive,1145011751232135168
+396,Wipauer,Meine Vermutung für die Shortlist 2019,Positive,1145011751232135168
+397,Othmann,Meine Vermutung für die Shortlist 2019,Positive,1145011751232135168
+398,Federer,Meine Vermutung für die Shortlist 2019,Positive,1145011751232135168
+399,wer welchen Preis erhält,Ich bin schon auf morgen gespannt,Positive,1145012013313212416
+400,wer zum besten Juror gewählt wird,Ich bin schon auf morgen gespannt,Positive,1145012013313212416
+401,Juror,besten,Positive,1145012013313212416
+402,wiederstein,gewinnt den jurorpreis N I C H T,Negative,1144940872812892162
+403,wiederstein gewinnt den jurorpreis N I C H T,gewinnt den jurorpreis N I C H T,Negative,1144940872812892162
+404,beim Schreiben die Logik beachten,"Lesen könnte so schön sein,wenn, ja wenn man beim Schreiben die Logik beachten würde",Negative,1145012023266336773
+405,Julia Jost,scheint ihre ganz eigene Logik zu haben,Negative,1145012023266336773
+406,Eindrücke der Lesungen,"auf mich wirken,belebe den ein oder anderen wieder",Positive,1145013528413298689
+407,"Literaturbetriebler, die abends im Strandbad den Handtuchhüfttanz aufführen, um völlig eleganzbefreit nasse Badehose gegen Unterbuxe zu tauschen","Und alles, was am Ende vom Bachmannpreis bleibt",Negative,1145013908459143168
+408,"Literaturbetriebler, die abends im Strandbad den Handtuchhüfttanz aufführen, um völlig eleganzbefreit nasse Badehose gegen Unterbuxe zu tauschen","Handtuchhüfttanz aufführen, um völlig eleganzbefreit nasse Badehose gegen Unterbuxe zu tauschen",Positive,1145013908459143168
+409,Text von Leander Fischer,nun endlich noch,Positive,1145014633067139079
+410,Ende der Publikumsabstimmung,Der Countdown läuft,Positive,1145014933408628738
+411,publikumspreis,Der Countdown läuft,Positive,1145014933408628738
+412,tddl,Wie kommt man den,Negative,1145021276534321152
+413,Bachmannpreis,Wie kommt man den,Negative,1145021276534321152
+414,Hitzekollaps,Hitzekollaps,Negative,1145022059250159616
+415,Hitzekollaps der Literaturkritik,Hitzekollaps,Negative,1145022059250159616
+416,Hitzekollaps der Literaturkritik,Hitzekollaps,Negative,1145022059250159616
+417,Firefox,konnte ich die Abstimmung nicht sehen,Negative,1145022495247994889
+418,Chrome,war die Abstimmung möglich,Positive,1145022495247994889
+419,Literaturpreise,"sollten wie Preise im Supermarkt auch so 2,99 oder so sein, also man meint eigentlich 3 aber weil man ja ein bisschen kritisch unentschlossen ist auf ,99 entrundet am Ende",Positive,1145023061542002688
+420,tddl,"bestes!!!,werd ich vermissen.",Positive,1145023157318955010
+421,"Insa Wilke: Auch auf dem Kunstmarkt, dem Literaturmarkt sind die Goldkopfnymphen am fängigsten",die Metapher erschließt sich mir nun nicht.,Negative,1145023260742103040
+422,"Auch auf dem Kunstmarkt, dem Literaturmarkt sind die Goldkopfnymphen am fängigsten",die Metapher erschließt sich mir nun nicht.,Negative,1145023260742103040
+423,Shortlist,neu,Positive,1145034684835012609
+424,Jury,vehement,Positive,1145034684835012609
+425,sonne im kopf,gefasel,Negative,1145034708884971521
+426,"Sie schlagen es aus, einen Bestseller zu schreiben...",Satz des Tages,Positive,1145049697809326081
+427,"Sie schlagen es aus, einen Bestseller zu schreiben...",Satz des Tages,Positive,1145049697809326081
+428,männlichen Teilnehmer,"Deprimierend,Ein kompletter Verzicht auf die männlichen Teilnehmer hätte in diesem Jahr keine Lücke gerissen",Negative,1144940951305117696
+429,Text macht mir zu oft den Erklärbär,So kann man auch show don't tell umschreiben.,Negative,1145050617725050882
+430,Text macht mir zu oft den Erklärbär,So kann man auch show don't tell umschreiben.,Negative,1145050617725050882
+431,tddl,Same me. Schade.,Negative,1145057829222518785
+432,Jurydiskussion,Aufgeweckte,Positive,1145063554648805376
+433,Text,"ist es schwierig,nur ein Text mich thematisch gepackt hat",Negative,1145064341668028416
+434,Text,mich thematisch gepackt hat,Positive,1145064341668028416
+435,Text mich thematisch,mich thematisch gepackt hat,Positive,1145064341668028416
+436,Text von #Orthmann,mich thematisch gepackt hat,Positive,1145064341668028416
+437,Texte,thematisch nicht interessieren,Negative,1145064341668028416
+438,Texte,deren Sprache mich anmacht,Positive,1145064341668028416
+439,Texte,Da war diesmal keiner dabei,Negative,1145064341668028416
+440,thematisch,thematisch nicht interessieren,Negative,1145064341668028416
+441,Sprache,deren Sprache mich anmacht,Positive,1145064341668028416
+442,Texte,mittelmäßige,Negative,1145064818677886976
+443,Texte,Keine innovativen,Negative,1145064818677886976
+444,Texte,mittelmäßige,Negative,1145064818677886976
+445,Texte,Keine innovativen,Negative,1145064818677886976
+446,Sprachkünstler,"Keine Sprachkünstler,mehr Handwerk",Negative,1145064818677886976
+447,"Ein Musiklehrer, der lieber Fliegenfischer ist",Böse + komisch,Positive,1145065199998832641
+448,Text von Leander Fischer,Böse + komisch,Positive,1145065199998832641
+449,Text von Leander Fischer,kommt sehr gut an bei der Jury,Positive,1145065199998832641
+450,Videolinks im Bachmannpreisarchiv,funktionieren die generell nicht,Negative,1145066143230648321
+451,System,liegt's an meinem System,Negative,1145066143230648321
+452,Text,"Wäre ein schöner Text,wenn das denn gelungen wäre,hier jedenfall nicht",Negative,1144940955491061760
+453,Hauptfigur,"Könnte man wunderbar schreiben,Gibts m.W. aber nicht",Negative,1144940955491061760
+454,meine Wahl,Ich hab meine Wahl getroffen,Positive,1145067369762643969
+455,meine Wahl getroffen,Ich hab meine Wahl getroffen,Positive,1145067369762643969
+456,was,favorisieren,Positive,1145067369762643969
+457,tddl,ich halte Hegels Ende der Kunst für ne ziemlich stabile These,Negative,1145082101190074374
+458,nun kommen die Kulturpessimisten aus ihren Löchern,"Oh, oh, oh,nun kommen die Kulturpessimisten aus ihren Löchern",Negative,1145083002508206081
+459,|Bachmannpreis||es|,Ich bleibe bei meinem Lob,Positive,1145085797168820225
+460,Autoren,dass sie Eulen nach Athen getragen hätten,Negative,1145087548869554176
+461,"Ja, mach das. Aber pass auf deine Triolen auf!","Ja, mach das. Aber pass auf deine Triolen auf!",Positive,1145088772410920960
+462,konzertanten Performance des Umblätterns,Obwohl das bestimmt lustig ist,Positive,1145092560886665216
+463,Autoren,geborene Vorleser,Positive,1145094839886929922
+464,Autoren,andere nicht,Negative,1145094839886929922
+465,Vorleser,geborene Vorleser,Positive,1145094839886929922
+466,heat,"can't stand,get out",Negative,1145100196654829569
+467,Obszön,?,Negative,1144940970619920384
+468,Argumentation von Hubert Winkels,Ich mag die Argumentation von Hubert Winkels ansonsten,Positive,1144940970619920384
+469,Argumentation von Hubert Winkels,hier irrt er,Negative,1144940970619920384
+470,die Technik und damit das Dateiformat,"immer mal wieder,gewechselt haben",Negative,1145112131509075979
+471,Browser,das nicht mehr mag,Negative,1145112131509075979
+472,"@KlausKastberger »Der Text steht in Verdacht, von den Opfern zu profitieren  in unerträglicher Art und Weise«",Danke,Positive,1144940981881659392
+473,"»Der Text steht in Verdacht, von den Opfern zu profitieren  in unerträglicher Art und Weise«",Danke,Positive,1144940981881659392
+474,Text,"steht in Verdacht, von den Opfern zu profitieren,in unerträglicher Art und Weise",Negative,1144940981881659392
+475,Hannah Arendt in a nutshell,als ob das möglich wäre,Negative,1144941002328805381
+476,Hannah Arendt in a nutshell,als ob das möglich wäre,Negative,1144941002328805381
+477,Winkels,"sehr erleichtert,klar sind",Positive,1144941006820904960
+478,KlausKastberger,"Gut,so deutlich",Positive,1144941115906449408
+479,stilistisch,gelungen,Positive,1144941118297137152
+480,moralisch,verwerflich,Negative,1144941118297137152
+481,Plauderton des Textes,"Plauderton,unerträglich",Negative,1144941118297137152
+482,Beyer lehrt Storytelling,Na dann...,Negative,1144941117764505600
+483,Gerster lehrt auch Schreiben,Na dann...,Negative,1144941117764505600
+484,man darf nicht? #Kastberger,"Boooh,wasss...,?",Negative,1144941164010885120
+485,Herr Kastberger,würde ich jetzt applaudieren,Positive,1144941236274585600
+486,Stella,Kolportage,Negative,1144941271896723456
+487,Beyer,Warum die Verfahren in Kolportage-Stella ganz andere sind,Positive,1144941271896723456
+488,Darf so nicht geschrieben werden? #Winkels,"Waaaas?,Darf so nicht geschrieben werden?",Negative,1144940352287203329
+489,Mit Dialekt sprechend über Dialekt im Text schimpfen,etwas schräg,Negative,1144941434618994690
+490,Dialekt sprechend,etwas schräg,Negative,1144941434618994690
+491,Dialekt im Text,über Dialekt im Text schimpfen,Negative,1144941434618994690
+492,Story-telling,Formal gelungener Kitsch,Negative,1144941456307699712
+493,"Story-telling in a nutshell: Formal gelungener Kitsch. Geht scheißen, Ihr Dozenten.","Geht scheißen, Ihr Dozenten.",Negative,1144941456307699712
+494,KlausKastberger,<3,Positive,1144941522451914752
+495,KlausKastberger,"Danke,!",Positive,1144941747094663168
+496,Statement,"Wichtiges,!",Positive,1144941747094663168
+497,Was ein quark....man darf nicht und unmoralisch... Jetzt auch noch Schreiben nach Vorschrift,"Was ein quark....,Jetzt auch noch Schreiben nach Vorschrift",Negative,1144941759006412801
+498,gomringernora,hat Recht.,Positive,1144941757907554305
+499,beabsichtigt,Möglicherweise beabsichtigt,Positive,1144941786940526594
+500,beabsichtigt,gnadenlos versiebt,Negative,1144941786940526594
+501,Text,mit der Stella-Debatte nichts zu tun,Positive,1144940364987604993
+502,Figuren,keine Abziehbildchen,Positive,1144940364987604993
+503,Gomringer verteidigt den Text.,Warum wundert mich das nicht.,Negative,1144941683831988224
+504,Bertolt Brecht,"Zum zweiten Mal schon,!",Negative,1144941869903859712
+505,Martin Beyers Text über die Hinrichtung dreier Mitglieder der Weißen Rose,entbrennt ein Streit in der Jury,Negative,1144941977852698625
+506,Martin Beyers Text über die Hinrichtung dreier Mitglieder der Weißen Rose,Eine Grenze überschritten,Negative,1144941977852698625
+507,"Ein Text, der so nicht geschrieben werden darf",halten dagegen,Negative,1144941977852698625
+508,"Ein Text, der so nicht geschrieben werden darf, so Winkels",halten dagegen,Negative,1144941977852698625
+509,Text,der so nicht geschrieben werden darf,Negative,1144941977852698625
+510,Eine Grenze überschritten sieht @KlausKastberger,halten dagegen,Negative,1144941977852698625
+511,twittersphere,"infamous,might be too much",Negative,1144941989743513601
+512,twittersphere,"infamous,might be too much",Negative,1144941989743513601
+513,Gmünder,gefällt mir dieses Jahr sehr gut,Positive,1144942044495958018
+514,Wiederstein-Autoren,nicht auf der Shortlist,Negative,1144942102272454658
+515,Shortlist,nicht auf der Shortlist,Negative,1144942102272454658
+516,Was-darf-Literatur-und-was-nicht-Diskussion,Gute,Positive,1144942228135170050
+517,Was-darf-Literatur-und-was-nicht-Diskussion,"jedoch bisschen mehr mit dem Text argumentieren.,Bitte",Negative,1144942228135170050
+518,Martin Beyers Roman Und ich war da,nichtlesen,Negative,1144942429851791361
+519,Beyer,Ausbeutung,Negative,1144942603449831429
+520,"detailliert Fahrt & Hinrichtung beschrieben, aber ohne Dialoge, ohne Namen, ohne Ostfronterinnerungen, und dann, im allerletzten Absatz, die Liste der Ermordeten, ein Dutzend Nachnamen, dazwischen die Scholls",Warum zB hat er nicht,Negative,1144942716905803776
+521,"detailliert Fahrt & Hinrichtung beschrieben, aber ohne Dialoge, ohne Namen, ohne Ostfronterinnerungen, und dann, im allerletzten Absatz, die Liste der Ermordeten, ein Dutzend Nachnamen, dazwischen die Scholls",Das hätte gelingen können,Positive,1144942716905803776
+522,Gleich verlangt Michael Wiederstein Satisfaktion. Die Waffe seiner Wahl: ein Fächer.,Die Waffe seiner Wahl: ein Fächer,Positive,1144940426736087040
+523,Kastberger Text unerträglich nennt,Ärgere mich nun deutlich weniger,Positive,1144942770248978432
+524,Text,unerträglich,Negative,1144942770248978432
+525,@clemensetz zitieren,auch wieder mal,Positive,1144942863442173953
+526,Kitsch und Klischees,sich über Kitsch und Klischees beschweren,Negative,1144943034238455808
+527,Text,Beispiel für Fatedropping.,Negative,1144942900905684993
+528,Wiederstein der für seinen #Beyer-Text kämpft,Respekt für,Positive,1144943097001971712
+529,"Jury der einfältige Reflex, den diese selbst beklagt: Sie wünschen sich ihre alte Klischees zurück.","einfältige Reflex, den diese selbst beklagt,Tu Brutus!",Negative,1144943097001971712
+530,Dieser Beyer,"?!,Vermutlich ein AfD-Anhänger",Negative,1144943136944398336
+531,was hättest du gemacht?,Die Frage stellt der Text mir mit Sicherheit nicht,Negative,1144943147656654848
+532,was hättest du gemacht?,Die Frage stellt der Text mir mit Sicherheit nicht,Negative,1144943147656654848
+533,Text,Die Frage stellt der Text mir mit Sicherheit nicht,Negative,1144943147656654848
+534,Der ist ja kein halber Nazi,"stimmt, war vermutlich ein ganzer...",Positive,1144943162533863424
+535,Der ist ja kein halber Nazi,"stimmt, war vermutlich ein ganzer...",Positive,1144943162533863424
+536,Der,kein halber Nazi,Positive,1144943162533863424
+537,Der,"stimmt, war vermutlich ein ganzer...",Positive,1144943162533863424
+538,Nazikitsch,"Nazikitsch,andrehen will",Negative,1144943335959924736
+539,Nee sagen wie Wilke,immer wieder Nee sagen wie Wilke,Positive,1144943335959924736
+540,Kitsch des Erzählers Beyer,ich kritisiere den Kitsch,Negative,1144943487919579136
+541,Kitsch seiner Hauptfigur,wäre ja OK,Positive,1144943487919579136
+542,drei von denen waren halt die Mitglieder der Weißen Rose.,ach. halt,Positive,1144940500358766593
+543,drei von denen waren halt die Mitglieder der Weißen Rose.,ach. halt,Positive,1144940500358766593
+544,text,so polarisieren kann,Negative,1144943657482670080
+545,jury so polarisieren,so polarisieren kann,Negative,1144943657482670080
+546,es,Muß es nicht notwendigerweise sein.,Positive,1144943798906228737
+547,es,Aber dazu muß man durchaus besser schreiben können.,Negative,1144943798906228737
+548,Sommertag,genießen,Positive,1144943822679527425
+549,Jury,die oder der Beste,Positive,1144943822679527425
+550,"RT @monaaarg: wenn jemand dir Nazikitsch andrehen will, einfach immer wieder Nee sagen wie Wilke.",das merk ich mir,Positive,1144943832322183169
+551,Nazikitsch,"Nazikitsch,andrehen will",Negative,1144943832322183169
+552,Nee sagen wie Wilke,immer wieder Nee sagen wie Wilke,Positive,1144943832322183169
+553,"Wie arrogant, er würdigt den #Wiederstein keines Blickes. Winkels vergötzt wieder mal sich selbst.","Wie arrogant,vergötzt wieder mal sich selbst",Negative,1144943865306202112
+554,kastenbergerplakativ,Lebhaft,Positive,1144943908985745408
+555,kastenbergerplakativ,leider kastenbergerplakativ,Negative,1144943908985745408
+556,den diesjährigen,Erstaunlich hoher Scheißdrecksanteil,Negative,1144943918330630144
+557,"wen hört man da atmen, stöhnen u. prusten?","atmen, stöhnen u. prusten",Negative,1144943946369511426
+558,Kastberger,unerträglich,Negative,1144944034097614849
+559,Kastberger trifft es!,trifft es!,Positive,1144944080050409477
+560,"im Text steht Haben Sie Kinder?, fragte er. Er fragte es immer wieder. Haben Sie Kinder?  Haben Sie Kinder?  Haben Sie Kinder?  Haben Sie Kinder?  Haben Sie Kinder?",dann ist das ein Ausschlachten. Punkt,Negative,1144944080050409477
+561,Der Erklärbär zeigt Zähne. #tddl #wiederstein,Der Erklärbär zeigt Zähne.,Positive,1144940617123934208
+562,"input, der vergleich zu @OthmannRonya",erste sinnvolle input,Positive,1144944099994275845
+563,Kontroversen,Wenigstens am letzten Tag noch ein paar Kontroversen,Positive,1144944112413696000
+564,Wer hat denn grad die ganze Zeit dampfablassend ins Mikro geatmet?,Wer hat denn grad die ganze Zeit dampfablassend ins Mikro geatmet?,Negative,1144944128410705921
+565,Backstage bei der Jury,Mäusschen spielen!!!,Positive,1144944168390860800
+566,@KlausKastberger applaudiert #Beyer nicht.,Recht so.,Positive,1144944206944907264
+567,"Herr Winkels entscheidet ab sofort, was in der Literatur geht und was nicht.","ab sofort,was in der Literatur geht und was nicht",Negative,1144944496012091392
+568,tddl,Ogottogott. Tz. Tz. Och nöö. Mannomann. Boah. Puuh!,Negative,1144944545005805569
+569,tddl,Hihi,Positive,1144944667013857282
+570,Beyer,er benutzt den Kitsch auch für alles andere.,Negative,1144944782277533697
+571,"Beyer benutzt Kitsch, um eine Figur mit Kitschanteilen zu schreiben, und er benutzt den Kitsch auch für alles andere",er benutzt den Kitsch auch für alles andere.,Negative,1144944782277533697
+572,Figur,mit Kitschanteilen,Negative,1144944782277533697
+573,Obszön!,Ja - so ist es!,Positive,1144940670433529856
+574,Frage: worüber darf man wie schreiben und warum nicht?,"hängen bleibt,hochaktuelle",Positive,1144944803299438592
+575,Livestream,Danke,Positive,1144944803299438592
+576,Organisation,Danke,Positive,1144944803299438592
+577,Autoren,Danke,Positive,1144944803299438592
+578,Jury,Danke,Positive,1144944803299438592
+579,euch für den unterhaltsamen Austausch,Danke,Positive,1144944803299438592
+580,Maxim Biller,Was Maxim Biller sagt.,Positive,1144944911000711168
+581,Ronya Othmann,Preise für,Positive,1144945631422832640
+582,Sarah Wipauer,Preise für,Positive,1144945631422832640
+583,Birgit Birnbacher,Preise für,Positive,1144945631422832640
+584,Ines Birkhan,Preise für,Positive,1144945631422832640
+585,Wendungen,"Keine seiner Wendungen ist originell, oder auch nur gut beobachtet.",Negative,1144946487681527808
+586,Wortschatz der Landserheftchen,klebt allem nur Etiketten auf,Negative,1144946487681527808
+587,in der Nachbesprechung wird Thomas Bernhard genannt,"Selbst in der Nachbesprechung,Ach Leute",Negative,1144946612688609287
+588,in der Nachbesprechung wird Thomas Bernhard genannt,"Selbst in der Nachbesprechung,Ach Leute",Negative,1144946612688609287
+589,Ich-Erzähler,genau diese grotesken Beobachtungen kann man doch nicht vom Ich-Erzähler trennen,Negative,1144947072573083650
+590,voting,"seriöse,vorne bis hinten",Positive,1144947549175988224
+591,Text,obszön,Negative,1144940685877026818
+592,Figuren,nicht für ambivalent,Negative,1144940685877026818
+593,Ich wünsche mir Preise für · Katharina Schultens · Birgit Birnbacher · Ines Birkhan,wünsche mir Preise für,Positive,1144947998822141953
+594,Katharina Schultens,wünsche mir Preise für,Positive,1144947998822141953
+595,Birgit Birnbacher,wünsche mir Preise für,Positive,1144947998822141953
+596,Ines Birkhan,wünsche mir Preise für,Positive,1144947998822141953
+597,tddl-Grind,tddl-Grind,Negative,1144948107576320000
+598,Follower,"durch #tddl-Grind drei Follower verloren,wo wollt ihr hin??",Negative,1144948107576320000
+599,tddl,???,Negative,1144948623932907520
+600,tddl,geschafft,Positive,1144949058227884032
+601,5 Texte,Punkte geben,Positive,1144949058227884032
+602,Wipauer,Punkte geben,Positive,1144949058227884032
+603,Othmann,Punkte geben,Positive,1144949058227884032
+604,Schultens,Punkte geben,Positive,1144949058227884032
+605,Jost,Punkte geben,Positive,1144949058227884032
+606,Birnbacher,Punkte geben,Positive,1144949058227884032
+607,beyer Text über Nazi-Mitläufer,"Aus der Hüfte ist nicht immer gut,leider dringlicher als eine Jesidengeschichte, die vielmehr nach mutiger Politik+Journalismus schreit",Negative,1144953822198059009
+608,tddl,Erst musste man bei die @Feuilletoene schimpfen und dann bei #tddl,Negative,1144954727815364610
+609,tddl,So! Fertig! :D,Positive,1144954727815364610
+610,Sarah Wipauer,konnte fast alle Juroren überzeugen.,Positive,1144955296772546561
+611,Grundton der Jury,"klingt so, als gäbe es Darstellungsverbote,nicht mehr präzise angeschaut,bekommt keine Chance",Negative,1144940697675554816
+612,Text,hohen Kunstfertigkeit,Positive,1144940697675554816
+613,bov,"!,Sehr starker",Positive,1015209907572953089
+614,Gleich liest,!!!,Positive,1015209907572953089
+615,#AnselmNeft,!!!,Positive,1015209907572953089
+616,Neft,nicht schlecht,Positive,1015215164231208960
+617,Neft liest,nicht schlecht,Positive,1015215164231208960
+618,Text,"Schade,ist jenseitig",Negative,1015215164231208960
+619,wenn Autoren wie Schauspieler lesen,"Wie ich es hasse,uff",Negative,1015215306229387265
+620,wenn Autoren wie Schauspieler lesen,"Wie ich es hasse,uff",Negative,1015215306229387265
+621,Der liest,"so komisch,mehr lesen als hören muss",Negative,1015510822615961600
+622,Text,"macht der Text keinen Spass,der Sinn nicht richtig ankommt",Negative,1015510822615961600
+623,#Nolte liest jetzt flüssiger,liest jetzt flüssiger,Positive,1015513389634908161
+624,Nolte,Armer,Negative,1015513435029819392
+625,Kollaps eines Gastes,Kollaps,Negative,1015513435029819392
+626,Autor,nicht verdient,Positive,1015513435029819392
+627,Text,gut,Positive,1015513435029819392
+628,Fluss,ist dahin,Negative,1015513435029819392
+629,sätze,viele schöne,Positive,1015511387651608577
+630,@bov,wie viele schöne sätze @bov gestern hatte,Positive,1015511387651608577
+631,Nolte,noch schlechter liest,Negative,1015514291691286528
+632,liest,noch schlechter,Negative,1015514291691286528
+633,Text,den ich fantastisch finde,Positive,1015549703457472512
+634,#Dündar liest,eindringlich und schön,Positive,1015549703457472512
+635,kontinuierliche Steigerung von Wort 1 bis jetzt zum Höhepunkt,ist beeindruckend,Positive,1015549703457472512
+636,Sie liest,auch sehr gut,Positive,1015549760609112065
+637,Text,Das tut dem Text gut,Positive,1015549760609112065
+638,Der Gewinner liest,"wie ein Schnellzug,Die Worte fahren nur so durch!",Positive,1015890276961931264
+639,unterhaltsam,unterhaltsam bisher,Positive,1015149639430037504
+640,vortrag,gelungenen,Positive,1015149639430037504
+641,plottwist,ne spur zu klischeeträchtig,Negative,1015149639430037504
+642,plottwist,ich hoffe noch auf,Positive,1015149639430037504
+643,Lesungen,"könnten kürzer sein, oder.",Positive,1014789051768037376
+644,die #tddl,Hab mir frei genommen,Positive,1014797927020052480
+645,die erste Lesung,verpenne,Negative,1014797927020052480
+646,Dialekt,"niedliche,Wettbewerbsvorteil",Positive,1014798952066109440
+647,vorgelesenen Text,Bange Vermutung,Negative,1014800522337976321
+648,Text,Bange Vermutung,Negative,1014800522337976321
+649,Eröffnungsrede,wird die gestrige Eröffnungsrede besser und besser,Positive,1014800522337976321
+650,Gleich (12:00) liest #StephanLohse,Wir drücken die Daumen!,Positive,1014809158196125698
+651,Lohse liest im Tonfall,eines sehr sanften Sozialarbeiters,Positive,1014813694008717312
+652,livegrind,hätte richtig bock auf,Positive,1014814374274502656
+653,bachmannpreis-lesungen,hätte richtig bock auf,Positive,1014814374274502656
+654,Lohse's Stimme,"Ich mag,lieber",Positive,1014814686955687939
+655,die der Frauen,lieber als,Negative,1014814686955687939
+656,zuhören,ist angenehmer,Positive,1014814686955687939
+657,ein Weißer der einen Text mit dem Titel Lumumbaland liest,etwas unangenehm,Negative,1014814686955687939
+658,Lohse liest so,als lese er den Text eines anderen prima Vista,Negative,1014815517717270529
+659,Texte,schlechter,Negative,1014824096356556800
+660,dieser,als viel besser als am Anfang erwiesen,Positive,1014824096356556800
+661,"Jury,",Nicht dank,Negative,1014824096356556800
+662,Pausen.,Immer. Bedeutungsvoll.,Positive,1014839878620762113
+663,Der @bov,"der Christopher Nolan von Klagenfurt,Ich schalte erst wieder ein, wenn er liest",Positive,1014841326955843585
+664,Lesungen zum Bachmannpreis,gehts aber wesentlich mehr ab,Positive,1014244953206214656
+665,tddl-Lesungen,"nach 15 Minuten fragt, worum es eigentlich geht",Negative,1014841414570651649
+666,Die langen Pausen,sind also nicht bedeutungsschwanger,Negative,1014841782750924800
+667,Brille,warum dann eigentlich,Negative,1014841782750924800
+668,in jeder langen Pause,Kein gutes zeichen,Negative,1014842120761376769
+669,Text,Kein gutes zeichen,Negative,1014842120761376769
+670,den Pausen,Jetzt isses vorbei. Dann geht's weiter.,Negative,1014842780357681152
+671,Und um was geht es eigentlich?,"Larmoyanter Kram, Kind, komische Namen, Schottland oder?",Negative,1014842780357681152
+672,liest er,Gefühlt liest er schon seit über 3 Stunden,Positive,1014857635957493760
+673,er liest,"Wtf,noch immer??",Negative,1014857809530380290
+674,lesungen,nur wegen,Negative,1014865263215480832
+675,jurydiskussionen,bestes entertainment,Positive,1014865263215480832
+676,Jury,wünschen würde,Positive,1014896359089082369
+677,raphiedel,wortgewaltigen,Positive,1014896442111090688
+678,Mischung aus Wissenschaft und Poesie,virtuos und packend,Positive,1014896442111090688
+679,Jury hat viel interpretiert,zu wenig auf die Sprache geachtet,Negative,1014896442111090688
+680,#tddl-Vortragsstimme,würde sich der Umsatz von Psychopharmaka im deutschsprachigen Raum schlagartig verdoppeln,Negative,1014923785340846080
+681,Klaus Kastberger - Weniger Pathos ist manchmal mehr,Note: 4+,Positive,1014963709691777027
+682,Insa Wilke,"Vielen Dank für die Kritik,schön heraus gearbeitet,Note: 2",Positive,1014963709691777027
+683,Statik des Textes,Schwache,Negative,1014963709691777027
+684,Hubert Winkels,interessiert uns nicht.,Negative,1014964824890015746
+685,Hubert Winkels,Note: 3,Positive,1014964824890015746
+686,Stefan Gmünder,nicht so viel um den heißen Brei reden,Negative,1014964824890015746
+687,Stefan Gmünder,Note: 3-,Positive,1014964824890015746
+688,Hildegard Keller,leider etwas zu verkopft,Negative,1014968223236808706
+689,Hildegard Keller,Note: 3+,Positive,1014968223236808706
+690,Michael Wiederstein,"schön mit eigener Meinung zusammen gefasst,Note: 2-",Positive,1014968223236808706
+691,Nora Gomringer,etwas misslungen,Negative,1014968223236808706
+692,Nora Gomringer,Note: 3-,Positive,1014968223236808706
+693,Nora Gomringer - Feminismus als Argumentationsmittel,etwas misslungen,Negative,1014968223236808706
+694,Nora Gomringer - Feminismus als Argumentationsmittel,Note: 3-,Positive,1014968223236808706
+695,@raphiedel,Meine Favoritin,Positive,1014968718563184642
+696,Raphaela Edelbauer,Meine Favoritin,Positive,1014968718563184642
+697,Anna Stern,Meine Favoritin,Positive,1014968718563184642
+698,Stefan Gmünder,"gute Meinung,trotzdem gewagt,Note: 2",Positive,1014979263915810820
+699,Stefan Gmünder - gute Meinung,"gute,trotzdem gewagt",Positive,1014979263915810820
+700,Hubert Winkels,keine gute Kritik,Negative,1014979263915810820
+701,Hubert Winkels,"trotzdem am Text geblieben,Note 3 +",Positive,1014979263915810820
+702,Kritik,keine gute,Negative,1014979263915810820
+703,Hildegard Keller,selbst ein bisschen gebrabbelt?,Negative,1014980562187116544
+704,Hildegard Keller,"schön auf den Text eingelassen,Note: 2-",Positive,1014980562187116544
+705,Text,"Lust am,Note: 3+",Positive,1014980562187116544
+706,Michael Wiederstein,eigenen Kritik hätte gekürzt werden können,Negative,1014980562187116544
+707,eigenen Kritik,hätte gekürzt werden können,Negative,1014980562187116544
+708,Text,"Lust am,Note: 3+",Positive,1014980562187116544
+709,eigenen Kritik,hätte gekürzt werden können,Negative,1014980562187116544
+710,Nora Gomringer,"hatte alles, was eine gute Kritik braucht,Note: 3+",Positive,1014983571126345735
+711,Lesung,Vorfreude auf,Positive,1015136454123687936
+712,#AnselmNeft,Vorfreude auf,Positive,1015136454123687936
+713,Lesung,Angst vor,Negative,1015146401511165952
+714,erste lesung vom bachmannpreis,"wunderbar,werde zuhören, gerne zuhören",Positive,1015147550943404032
+715,corinna sievers,gehalten.trotzdem viel glück,Positive,1015151008387862528
+716,eintönig,"zu eintönig,schade",Negative,1015151008387862528
+717,bewerbungs-videos,qualität,Positive,1015151008387862528
+718,lesung,qualität des bewerbungs-videos wird in der lesung leider nicht gehalten.trotzdem,Negative,1015151008387862528
+719,Lesung,dreimal laut: »Ficken!« in den Saal rufen,Negative,1015151055494053888
+720,Sie liest,gut,Positive,1015164413165305857
+721,ihre Sprache,wo ist ihre Sprache?,Negative,1015164413165305857
+722,vorliest,"Ich mag,sich wirklich in den Text einbringt,nicht einfach nur",Positive,1015165277590425600
+723,#allyklein liest,sehr emotional und stimmreich,Positive,1015168131201949697
+724,stimmreich,sehr emotional und stimmreich,Positive,1015168131201949697
+727,ein Kurzporträt von Natalka,Toll geschrieben und gelesen,Positive,1015179482687303680
+728,gelesen von Tanja Maljartschuk,Toll,Positive,1015179482687303680
+729,Tanja Maljartschuk,Toll geschrieben und gelesen,Positive,1015179482687303680
+730,Nachmittagslesungen,könnten heute interessant werden,Positive,1015198272774959104
+731,@bov,könnten heute interessant werden,Positive,1015198272774959104
+732,Anselm Neft,könnten heute interessant werden,Positive,1015198272774959104
+733,Eine Familiengeschichte,sehr gut gelesen,Positive,1015198682327801856
+734,gelesen @bov,sehr gut,Positive,1015198682327801856
+735,gelesen,Schön,Positive,1015201593111863296
+736,tddl,Schön,Positive,1015201593111863296
+737,bovbjerg,Schön,Positive,1015201593111863296
+738,Machs wie Miltos,gefällt mir gut,Positive,1015213436597362688
+739,Lesung,gefällt mir gut,Positive,1015213436597362688
+740,Macht er super,super,Positive,1015213436597362688
+741,Lesung,Sehr gute,Positive,1015214361856675840
+742,beim Bachmann Preis,"ich komm einfach nicht mit,ihr lest mir zu viel",Negative,1015251921261690882
+743,Klaus Kastberger,Note 2-,Positive,1015254115176407040
+744,sozialen Medien wie Twitter,Schade,Negative,1015254115176407040
+745,Text,ist gut,Positive,1015254115176407040
+746,Insa Wilke,"gut begründet,Note:2",Positive,1015254115176407040
+747,Text,ist gut,Positive,1015254115176407040
+748,Stefan Gmünder,Note: 2-,Positive,1015255250612170753
+749,Kritiken,Retadierende Momente,Positive,1015255250612170753
+750,Hubert Winkels,Klingt komisch,Negative,1015255250612170753
+751,Hubert Winkels,"zeigst du Talent,Note: 3+",Positive,1015255250612170753
+752,Hildegard Keller,Note: 2,Positive,1015256442528509953
+753,Sound des Textes,gut,Positive,1015256442528509953
+754,Kritik,gut,Positive,1015256442528509953
+755,Kritik,Vielleicht die eigene Kritik etwas zu Herzen nehmen,Negative,1015256442528509953
+756,Michael Wiederstein,Note:3-,Positive,1015256442528509953
+757,Kritik,gut,Positive,1015256442528509953
+758,Kritik,Vielleicht die eigene Kritik etwas zu Herzen nehmen,Negative,1015256442528509953
+759,Nora Gomringer,Note: 3+,Positive,1015258255487008768
+760,Sagst du auch bitches und hoes,mich zu provozieren,Negative,1015258255487008768
+761,Klaus Kastberger,Note: 3+,Positive,1015282585298227200
+762,Meinungen,sonst gute,Positive,1015282585298227200
+763,Insa Wilke,"gut zusammen gefasst,Note 2+",Positive,1015282585298227200
+764,Literarische Radikalität,fehlt trotzdem,Negative,1015282585298227200
+765,Stefan Gmünder,Note: 2,Positive,1015283372170600448
+766,Kritik,Setzt zu sehr auf Effekte nicht so die,Positive,1015283372170600448
+767,Kritik,Note: 2,Positive,1015283372170600448
+768,Hubert Winkels,"Ansonsten bodenständig,Note: 3",Positive,1015283372170600448
+769,Freud,schon in der Wissenschaft veraltet und überholt,Negative,1015283372170600448
+770,Hildegard Keller,"Die Kollegen stimmen teilweise zu,Note: 3",Positive,1015284087479730176
+771,Kritik,gute,Positive,1015284087479730176
+772,Kritik,Wunderbare,Positive,1015284087479730176
+773,Michael Wiederstein,Note: 2-,Positive,1015284087479730176
+774,Kritik,gute,Positive,1015284087479730176
+775,Kritik,Wunderbare,Positive,1015284087479730176
+776,Nora Gomringer,"Ein interessanter Gedanke,Note: 2-",Positive,1015284689144295424
+777,Lesung von @bov,"wenn der Text nicht gewinnt dann nur, weil er vom ersten Satz an im Orbit kreist",Positive,1015309436821352448
+778,Text,"wenn der Text nicht gewinnt dann nur, weil er vom ersten Satz an im Orbit kreist",Positive,1015309436821352448
+779,Den Text hören,eins,Positive,1015310379356950528
+780,Text,eins,Positive,1015310379356950528
+781,Stimme,eins,Positive,1015310379356950528
+782,Klang,eins,Positive,1015310379356950528
+783,beschriebenen Orte,eins,Positive,1015310379356950528
+784,Feridun Zaimoglu,Mit starken Worten,Positive,1014770273671942144
+785,Lesung,bewegende,Positive,1015333581193928707
+786,Lesung,ansehen!,Positive,1015333581193928707
+787,Lesung,Wir gratulieren!,Positive,1015333581193928707
+788,Autors #AnselmNeft,bewegende,Positive,1015333581193928707
+789,Autors #AnselmNeft,Wir gratulieren!,Positive,1015333581193928707
+790,Insa Wilke,Note: 2-,Positive,1015338024115359744
+791,Bilder,schiefe,Negative,1015338024115359744
+792,Hubert Winkels,Note: 2,Positive,1015338846463168512
+793,Kritik,wie ein Sherlock Holmes der Logikfehler,Positive,1015338846463168512
+794,Kritik,Note: 2,Positive,1015338846463168512
+795,Sherlock Holmes,wie ein Sherlock Holmes der Logikfehler,Positive,1015338846463168512
+796,Hildegard Keller,Note: 2,Positive,1015338846463168512
+797,Feedback an Autorin,schönes,Positive,1015338846463168512
+798,Feedback an Autorin,Note: 2,Positive,1015338846463168512
+799,Performance,Lob für,Positive,1015338846463168512
+800,Text,top gelesen,Positive,1015339631884361728
+801,gelesen,top,Positive,1015339631884361728
+802,Sprache,schöne,Positive,1015339631884361728
+803,Michael Wiederstein,"Du brennst für den Text,das ist schön mitzuerleben,Note: 2+",Positive,1015340309323100160
+804,Text,lebt & hat Organe!,Positive,1015340309323100160
+805,Text,brennst für,Positive,1015340309323100160
+806,Text,lebt & hat Organe!,Positive,1015340309323100160
+807,Text,brennst für,Positive,1015340309323100160
+808,Nora Gomringer,Note 2-,Positive,1015340309323100160
+809,Lesung,"Beklemmend tolle,!",Positive,1015340309323100160
+810,ohne Bart,Kognitive Dissonanz,Negative,1015509303682363394
+811,Leseduktus,Interessanter,Positive,1015509465444093952
+812,Lesung,zumindest auch ein weiterer Beitrag für unser Ekel-Thema,Negative,1015515641430859776
+813,von professionellen Vorlesenden gelesen werden,"manchmal wäre es wirklich gut, wenn die Texte von professionellen Vorlesenden gelesen werden",Negative,1015528451175043072
+814,"googeln, zwei Mediengeräte",reichen doch,Positive,1015533474365820928
+815,Lesung von Özlem Özgül Dündar,Herzklopfen und Beklemmnis,Positive,1015552128847368192
+816,Text ausschließlich kleingeschrieben und ohne Interpunktionen,Schade,Negative,1015552128847368192
+817,Text,"Beeindruckender,sogar gelohnt",Positive,1015552985873690624
+818,Vortrag,"berührender,sogar gelohnt",Positive,1015552985873690624
+819,pausenfüllende Stimmen-Imitation,ertragen,Negative,1015552985873690624
+820,lesung,in u-haft genommen,Negative,1015562227942903808
+821,ihn,zwar überladen konstruiert,Negative,1015576143863394304
+822,ihn,geglückte überraschung,Positive,1015576143863394304
+823,für sein alter,geglückte überraschung,Positive,1015576143863394304
+824,Özlem,"für Özlem gestimmt,TeamÖzlem",Positive,1015646627716005888
+825,Lesung,"sehr schöne,Gratulation!",Positive,1015646627716005888
+826,gelesen,"Phantastisch,!",Positive,1015886907224543232
+827,Text,"großartig surreal-dadaistischer,!",Positive,1015886907224543232
+828,den Herrn Magister,"Hauptpreis für,!",Positive,1015886907224543232
+829,Raphaela Edelbauer da vorliest,"Erinnert mich ein wenig an Georg Kleins Miakro,gefällt mir erstaunlich gut",Positive,1014785883952820225
