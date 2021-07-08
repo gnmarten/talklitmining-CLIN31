@@ -16,9 +16,15 @@ Project Website: [link](https://www.talklitmining.ugent.be)
 ![Banner](https://www.talklitmining.ugent.be/wp-content/uploads/2021/06/vlcsnap-error192_statements.png)
 
 
-The project aims to answer questions such as: What are the criteria for telling ‘good’ from ‘bad’ literature used by both professional and layperson critics? What role does the attribution of societal engagement play in the judgment of contemporary literature? What are the differences between academic prizes and literary prizes that draw on audience participation?
+1. Context
 
-In the current version of this code, we analyze tweets in German, and train classifiers to predict categories and sentiment associated with keywords and aspects in the tweets. 
+Aspect-based Sentiment Analysis (ABSA) of German-language social media data related to the Ingeborg-Bachmann-Preis and Tage der deutschsprachigen Literatur (TDDL), two German-Language Literature festivals. For more background information, please consult http://www.talklitmining.ugent.be.
+
+2. Data Collection We collected tweets published about the TDDL between 2007 and 2019 using the freely available scraping tool “OMGOT3” (https://github.com/marquisvictor/Optimized-Modified-GetOldTweets3-OMGOT) and a predefined list of topical hashtags.
+
+The scraping of social media was limited to tweets published about the TDDL between 2007 and 2019 via marquisvictor’s “OMGOT3” (https://github.com/marquisvictor/Optimized-Modified-GetOldTweets3-OMGOT). All social media data were/are publicly accessible and have been anonymized during pre-processing. The collected data are used for non-commercial, academic purposes only. No information on individual users, apart from their handle and the number of likes and retweets, was collected – in keeping with the social media platform’s API access terms. Academics who wish to replicate our research can collect the data using the provided tweet IDs, which give access to the original tweet content if it is still publicly available. More information on Twitter’s policy and recently expanded access for academic research is to be found here: https://developer.twitter.com/en/products/twitter-api/academic-research.
+
+Please note that tweets are constantly being created or removed and that some profiles may no longer be public. As a consequence, your collected corpus may differ slightly from ours.
 
 # Installation
 
