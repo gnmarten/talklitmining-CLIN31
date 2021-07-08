@@ -54,6 +54,7 @@ The repository is structured as followed:
 * preprocessing.ipynb : Contains all the functions and code to download Tweet texts, and setup data for training for the model
 * train_and_eval.ipynb : Trains model from scratch and runs evaluation on the test sets
 
+To replicate the experiments, run preprocessing.ipynb and train_and_eval.ipynb sequentially.
 Note: Add Twitter API developer keys, at the top of the file preprocessing.ipynb to get the code running!
 
 # Contacts
