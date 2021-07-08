@@ -32,6 +32,7 @@ Requirements:
 
 * Python 3.6 + 
 * pip
+* Jupyter Notebook
 
 Setup: 
 
@@ -42,6 +43,8 @@ Setup:
 * ```cd talklitmining-CLIN31```
 
 * ```pip install -r requirements.txt```
+
+*```jupyter notebook```
 
 # Usage
 
